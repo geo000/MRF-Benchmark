@@ -1,0 +1,913 @@
+./binary data/person.txt person 
+******* Running ICM for up to 500 x 5 iterations
+writing runtimes to person-ICM.csv
+Energy = 225583004 (Ed=225583004, Es=0) at start (0.001 secs init)
+Energy = 49753984 (Ed=48518506, Es=1235478), 0.073 secs
+Energy = 47088952 (Ed=45883690, Es=1205262), 0.144 secs
+Energy = 45090756 (Ed=43934270, Es=1156486), 0.203 secs
+Energy = 43258769 (Ed=42145180, Es=1113589), 0.267 secs
+Energy = 42241624 (Ed=41177118, Es=1064506), 0.327 secs
+Energy = 41660844 (Ed=40621622, Es=1039222), 0.393 secs
+Energy = 41249510 (Ed=40211001, Es=1038509), 0.453 secs
+Energy = 40977099 (Ed=39939444, Es=1037655), 0.521 secs
+Energy = 40772095 (Ed=39746266, Es=1025829), 0.590 secs
+Energy = 40647080 (Ed=39629598, Es=1017482), 0.649 secs
+Energy = 40582608 (Ed=39573667, Es=1008941), 0.716 secs
+Energy = 40565803 (Ed=39557190, Es=1008613), 0.783 secs
+Energy = 40559184 (Ed=39550563, Es=1008621), 0.845 secs
+Energy = 40554555 (Ed=39545942, Es=1008613), 0.906 secs
+Energy = 40550240 (Ed=39541616, Es=1008624), 0.977 secs
+Energy = 40545465 (Ed=39537224, Es=1008241), 1.037 secs
+Energy = 40542159 (Ed=39533833, Es=1008326), 1.110 secs
+Energy = 40538872 (Ed=39530673, Es=1008199), 1.184 secs
+Energy = 40537197 (Ed=39529014, Es=1008183), 1.258 secs
+Energy = 40537197 (Ed=39529014, Es=1008183), 1.330 secs
+******* Running Expansion for up to 500 x 1 iterations
+writing runtimes to person-Expansion.csv
+Energy = 225583004 (Ed=225583004, Es=0) at start (0.001 secs init)
+Energy = 30804852 (Ed=30157043, Es=647809), 0.126 secs
+Energy = 30804852 (Ed=30157043, Es=647809), 0.237 secs
+******* Running Swap for up to 500 x 1 iterations
+writing runtimes to person-Swap.csv
+Energy = 225583004 (Ed=225583004, Es=0) at start (0.001 secs init)
+Energy = 30804852 (Ed=30157043, Es=647809), 0.088 secs
+Energy = 30804852 (Ed=30157043, Es=647809), 0.175 secs
+******* Running TRW-S for up to 500 x 1 iterations
+writing runtimes to person-TRW-S.csv
+Energy = 225583004 (Ed=225583004, Es=0) at start (0.011 secs init)
+Energy = 30880260 (Ed=30222074, Es=658186), lower bound = 0.0, 0.022 secs
+Energy = 30856396 (Ed=30202877, Es=653519), lower bound = 0.0, 0.037 secs
+Energy = 30852097 (Ed=30198022, Es=654075), lower bound = 0.0, 0.051 secs
+Energy = 30849829 (Ed=30195003, Es=654826), lower bound = 0.0, 0.066 secs
+Energy = 30848397 (Ed=30194080, Es=654317), lower bound = 0.0, 0.078 secs
+Energy = 30837486 (Ed=30184840, Es=652646), lower bound = 0.0, 0.089 secs
+Energy = 30836370 (Ed=30184007, Es=652363), lower bound = 0.0, 0.102 secs
+Energy = 30829318 (Ed=30180999, Es=648319), lower bound = 0.0, 0.116 secs
+Energy = 30828869 (Ed=30181118, Es=647751), lower bound = 0.0, 0.130 secs
+Energy = 30826499 (Ed=30180215, Es=646284), lower bound = 0.0, 0.143 secs
+Energy = 30826398 (Ed=30180003, Es=646395), lower bound = 0.0, 0.156 secs
+Energy = 30826386 (Ed=30179553, Es=646833), lower bound = 0.0, 0.169 secs
+Energy = 30825277 (Ed=30180300, Es=644977), lower bound = 0.0, 0.181 secs
+Energy = 30824085 (Ed=30179817, Es=644268), lower bound = 0.0, 0.196 secs
+Energy = 30823970 (Ed=30179708, Es=644262), lower bound = 0.0, 0.213 secs
+Energy = 30823829 (Ed=30179527, Es=644302), lower bound = 0.0, 0.228 secs
+Energy = 30823820 (Ed=30179497, Es=644323), lower bound = 0.0, 0.242 secs
+Energy = 30823515 (Ed=30179284, Es=644231), lower bound = 0.0, 0.256 secs
+Energy = 30823510 (Ed=30179355, Es=644155), lower bound = 0.0, 0.267 secs
+Energy = 30823118 (Ed=30178963, Es=644155), lower bound = 0.0, 0.281 secs
+Energy = 30823490 (Ed=30179501, Es=643989), lower bound = 0.0, 0.293 secs
+Energy = 30823059 (Ed=30179475, Es=643584), lower bound = 0.0, 0.308 secs
+Energy = 30822823 (Ed=30179159, Es=643664), lower bound = 0.0, 0.321 secs
+Energy = 30823073 (Ed=30179325, Es=643748), lower bound = 0.0, 0.336 secs
+Energy = 30815802 (Ed=30168489, Es=647313), lower bound = 0.0, 0.350 secs
+Energy = 30815763 (Ed=30168387, Es=647376), lower bound = 0.0, 0.364 secs
+Energy = 30815648 (Ed=30168337, Es=647311), lower bound = 0.0, 0.379 secs
+Energy = 30808593 (Ed=30163084, Es=645509), lower bound = 0.0, 0.394 secs
+Energy = 30808581 (Ed=30163005, Es=645576), lower bound = 0.0, 0.409 secs
+Energy = 30808390 (Ed=30163032, Es=645358), lower bound = 0.0, 0.423 secs
+Energy = 30808333 (Ed=30162998, Es=645335), lower bound = 0.0, 0.436 secs
+Energy = 30807318 (Ed=30160096, Es=647222), lower bound = 0.0, 0.451 secs
+Energy = 30807318 (Ed=30160096, Es=647222), lower bound = 0.0, 0.464 secs
+Energy = 30807278 (Ed=30160084, Es=647194), lower bound = 0.0, 0.477 secs
+Energy = 30807212 (Ed=30160052, Es=647160), lower bound = 0.0, 0.491 secs
+Energy = 30807212 (Ed=30160052, Es=647160), lower bound = 0.0, 0.506 secs
+Energy = 30807212 (Ed=30160052, Es=647160), lower bound = 0.0, 0.520 secs
+Energy = 30807062 (Ed=30160277, Es=646785), lower bound = 0.0, 0.534 secs
+Energy = 30807062 (Ed=30160277, Es=646785), lower bound = 0.0, 0.549 secs
+Energy = 30807059 (Ed=30160596, Es=646463), lower bound = 0.0, 0.563 secs
+Energy = 30807037 (Ed=30160494, Es=646543), lower bound = 0.0, 0.577 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.592 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.606 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.620 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.634 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.649 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.664 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.679 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.694 secs
+Energy = 30807036 (Ed=30160556, Es=646480), lower bound = 0.0, 0.708 secs
+Energy = 30807112 (Ed=30160253, Es=646859), lower bound = 0.0, 0.722 secs
+Energy = 30807034 (Ed=30160213, Es=646821), lower bound = 0.0, 0.737 secs
+Energy = 30807034 (Ed=30160213, Es=646821), lower bound = 0.0, 0.751 secs
+Energy = 30807034 (Ed=30160213, Es=646821), lower bound = 0.0, 0.766 secs
+Energy = 30807034 (Ed=30160213, Es=646821), lower bound = 0.0, 0.781 secs
+Energy = 30807034 (Ed=30160213, Es=646821), lower bound = 0.0, 0.792 secs
+Energy = 30807034 (Ed=30160213, Es=646821), lower bound = 0.0, 0.804 secs
+Energy = 30807034 (Ed=30160213, Es=646821), lower bound = 0.0, 0.816 secs
+Energy = 30806509 (Ed=30160074, Es=646435), lower bound = 0.0, 0.830 secs
+Energy = 30806216 (Ed=30159906, Es=646310), lower bound = 0.0, 0.844 secs
+Energy = 30806216 (Ed=30159906, Es=646310), lower bound = 0.0, 0.854 secs
+Energy = 30806216 (Ed=30159906, Es=646310), lower bound = 0.0, 0.865 secs
+Energy = 30806216 (Ed=30159906, Es=646310), lower bound = 0.0, 0.878 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.892 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.906 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.919 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.933 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.945 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.959 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.973 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 0.986 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.003 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.021 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.040 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.053 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.070 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.086 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.106 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.121 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.138 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.155 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.172 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.190 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.208 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.225 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.243 secs
+Energy = 30806066 (Ed=30159458, Es=646608), lower bound = 0.0, 1.260 secs
+Energy = 30806019 (Ed=30158212, Es=647807), lower bound = 0.0, 1.277 secs
+Energy = 30806019 (Ed=30158212, Es=647807), lower bound = 0.0, 1.293 secs
+Energy = 30806019 (Ed=30158212, Es=647807), lower bound = 0.0, 1.310 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.326 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.343 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.359 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.375 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.391 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.408 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.424 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.441 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.457 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.473 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.488 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.502 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.516 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.529 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.545 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.559 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.574 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.587 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.599 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.613 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.627 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.641 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.655 secs
+Energy = 30805943 (Ed=30158515, Es=647428), lower bound = 0.0, 1.667 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.683 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.697 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.710 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.725 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.739 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.753 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.768 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.779 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.795 secs
+Energy = 30805947 (Ed=30158383, Es=647564), lower bound = 0.0, 1.806 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.818 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.831 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.845 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.858 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.868 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.878 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.888 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.899 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.910 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.922 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.934 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.948 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.962 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.976 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 1.990 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.004 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.017 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.029 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.043 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.058 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.070 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.083 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.093 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.104 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.115 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.129 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.144 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.158 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.172 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.186 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.201 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.213 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.229 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.244 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.259 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.272 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.286 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.299 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.312 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.325 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.339 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.354 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.368 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.382 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.396 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.406 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.418 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.429 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.442 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.456 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.469 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.481 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.494 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.505 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.516 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.528 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.541 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.555 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.568 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.581 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.595 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.608 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.622 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.635 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.650 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.666 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.679 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.693 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.708 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.724 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.739 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.752 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.768 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.784 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.798 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.811 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.826 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.841 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.857 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.872 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.887 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.901 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.915 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.929 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.941 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.953 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.967 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.981 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 2.994 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.008 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.021 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.035 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.051 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.066 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.081 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.096 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.110 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.125 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.140 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.154 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.167 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.182 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.196 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.211 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.226 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.240 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.253 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.263 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.278 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.292 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.305 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.317 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.332 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.345 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.361 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.375 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.388 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.399 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.410 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.422 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.436 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.451 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.464 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.476 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.491 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.505 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.519 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.533 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.548 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.561 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.575 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.586 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.600 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.615 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.628 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.644 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.659 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.673 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.686 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.699 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.711 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.726 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.742 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.757 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.773 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.784 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.797 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.812 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.826 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.841 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.856 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.871 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.887 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.902 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.916 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.926 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.941 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.953 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.968 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.979 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 3.991 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.006 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.021 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.032 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.047 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.060 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.075 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.090 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.103 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.116 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.131 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.146 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.161 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.175 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.190 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.201 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.213 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.228 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.243 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.258 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.273 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.288 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.303 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.316 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.328 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.341 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.355 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.369 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.383 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.397 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.409 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.421 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.432 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.443 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.457 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.470 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.481 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.492 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.506 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.518 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.532 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.545 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.556 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.567 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.579 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.593 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.609 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.624 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.639 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.653 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.668 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.683 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.698 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.713 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.727 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.741 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.756 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.771 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.787 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.800 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.815 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.828 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.843 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.858 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.874 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.889 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.902 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.917 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.931 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.945 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.961 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.976 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 4.990 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.004 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.019 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.031 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.043 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.055 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.068 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.084 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.098 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.113 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.128 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.140 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.154 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.168 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.179 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.191 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.205 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.220 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.235 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.248 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.258 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.272 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.287 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.302 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.317 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.332 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.347 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.362 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.374 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.390 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.401 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.413 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.424 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.438 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.452 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.465 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.478 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.490 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.504 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.519 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.533 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.547 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.561 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.576 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.590 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.605 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.620 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.634 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.649 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.661 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.673 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.685 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.700 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.716 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.730 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.743 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.757 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.768 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.783 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.798 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.813 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.828 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.843 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.857 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.869 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.883 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.896 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.909 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.923 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.935 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.948 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.961 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.975 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 5.990 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.002 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.013 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.025 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.039 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.054 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.068 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.082 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.096 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.110 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.126 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.141 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.155 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.168 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.179 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.192 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.205 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.220 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.235 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.249 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.261 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.276 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.290 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.305 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.320 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.335 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.349 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.364 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.375 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.387 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.398 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.408 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.422 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.435 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.451 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.465 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.481 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.493 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.508 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.519 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.531 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.542 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.557 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.573 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.586 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.601 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.613 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.625 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.641 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.655 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.670 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.685 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.699 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.713 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.725 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.740 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.753 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.766 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.780 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.794 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.808 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.824 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.836 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.851 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.867 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.882 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.896 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.911 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.926 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.940 secs
+Energy = 30804852 (Ed=30157043, Es=647809), lower bound = 0.0, 6.955 secs
+******* Running BP-S for up to 500 x 1 iterations
+writing runtimes to person-BP-S.csv
+Energy = 225583004 (Ed=225583004, Es=0) at start (0.007 secs init)
+Energy = 31618178 (Ed=30888539, Es=729639), 0.021 secs
+Energy = 31432314 (Ed=30741454, Es=690860), 0.034 secs
+Energy = 31344484 (Ed=30656566, Es=687918), 0.046 secs
+Energy = 31260002 (Ed=30585495, Es=674507), 0.060 secs
+Energy = 31197673 (Ed=30534263, Es=663410), 0.074 secs
+Energy = 31153131 (Ed=30482404, Es=670727), 0.088 secs
+Energy = 31090264 (Ed=30441392, Es=648872), 0.096 secs
+Energy = 31058179 (Ed=30408009, Es=650170), 0.106 secs
+Energy = 31022854 (Ed=30372506, Es=650348), 0.115 secs
+Energy = 30984880 (Ed=30335584, Es=649296), 0.128 secs
+Energy = 30963923 (Ed=30312870, Es=651053), 0.140 secs
+Energy = 30945572 (Ed=30289043, Es=656529), 0.153 secs
+Energy = 30928705 (Ed=30268288, Es=660417), 0.167 secs
+Energy = 30910525 (Ed=30250276, Es=660249), 0.181 secs
+Energy = 30895598 (Ed=30232053, Es=663545), 0.194 secs
+Energy = 30851516 (Ed=30218802, Es=632714), 0.206 secs
+Energy = 30849400 (Ed=30215072, Es=634328), 0.221 secs
+Energy = 30846336 (Ed=30208634, Es=637702), 0.235 secs
+Energy = 30842803 (Ed=30204211, Es=638592), 0.246 secs
+Energy = 30840605 (Ed=30198445, Es=642160), 0.255 secs
+Energy = 30833623 (Ed=30192064, Es=641559), 0.267 secs
+Energy = 30829901 (Ed=30189745, Es=640156), 0.277 secs
+Energy = 30829315 (Ed=30188823, Es=640492), 0.285 secs
+Energy = 30827479 (Ed=30187658, Es=639821), 0.298 secs
+Energy = 30823895 (Ed=30183609, Es=640286), 0.311 secs
+Energy = 30821878 (Ed=30181085, Es=640793), 0.324 secs
+Energy = 30820313 (Ed=30180051, Es=640262), 0.337 secs
+Energy = 30818674 (Ed=30179164, Es=639510), 0.352 secs
+Energy = 30817933 (Ed=30178967, Es=638966), 0.366 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.379 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.390 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.402 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.415 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.424 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.438 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.452 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.466 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.480 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.493 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.506 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.519 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.528 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.538 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.550 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.563 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.576 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.585 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.597 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.606 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.614 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.623 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.632 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.645 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.656 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.668 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.678 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.691 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.704 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.715 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.728 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.742 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.754 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.765 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.775 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.785 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.794 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.806 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.819 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.832 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.844 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.856 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.869 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.882 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.892 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.905 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.915 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.926 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.939 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.948 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.959 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.968 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.978 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 0.992 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.006 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.019 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.033 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.041 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.054 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.066 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.076 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.085 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.097 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.109 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.122 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.134 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.147 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.159 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.171 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.181 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.194 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.207 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.220 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.232 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.245 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.258 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.271 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.285 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.298 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.312 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.325 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.339 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.352 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.365 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.378 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.390 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.403 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.416 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.430 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.444 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.458 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.471 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.483 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.496 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.510 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.523 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.537 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.550 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.562 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.574 secs
+Energy = 30817467 (Ed=30178623, Es=638844), 1.586 secs
+******* Running BP-M for up to 500 x 1 iterations
+writing runtimes to person-BP-M.csv
+Energy = 225583004 (Ed=225583004, Es=0) at start (0.022 secs init)
+Energy = 30946554 (Ed=30089473, Es=857081), 0.263 secs
+Energy = 30849246 (Ed=30123331, Es=725915), 0.512 secs
+Energy = 30827377 (Ed=30137788, Es=689589), 0.765 secs
+Energy = 30821436 (Ed=30143253, Es=678183), 1.027 secs
+Energy = 30821280 (Ed=30145396, Es=675884), 1.280 secs
+Energy = 30820106 (Ed=30145767, Es=674339), 1.561 secs
+Energy = 30816802 (Ed=30145790, Es=671012), 1.833 secs
+Energy = 30813843 (Ed=30146022, Es=667821), 2.089 secs
+Energy = 30812107 (Ed=30147213, Es=664894), 2.347 secs
+Energy = 30812482 (Ed=30147605, Es=664877), 2.641 secs
+Warning: energy is increasing!
+Energy = 30811153 (Ed=30147879, Es=663274), 2.922 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 3.222 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 3.511 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 3.821 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 4.111 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 4.400 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 4.704 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 5.008 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 5.303 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 5.598 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 5.899 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 6.206 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 6.502 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 6.804 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 7.108 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 7.401 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 7.692 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 7.985 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 8.281 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 8.577 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 8.880 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 9.183 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 9.481 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 9.775 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 10.080 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 10.388 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 10.698 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 10.994 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 11.293 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 11.607 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 11.913 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 12.215 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 12.523 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 12.819 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 13.124 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 13.438 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 13.743 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 14.031 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 14.324 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 14.615 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 14.906 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 15.207 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 15.502 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 15.802 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 16.071 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 16.323 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 16.593 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 16.802 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 17.037 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 17.245 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 17.466 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 17.690 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 17.911 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 18.166 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 18.404 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 18.611 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 18.858 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 19.150 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 19.450 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 19.752 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 20.053 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 20.356 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 20.665 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 20.968 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 21.265 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 21.564 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 21.870 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 22.179 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 22.479 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 22.774 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 23.067 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 23.368 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 23.674 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 23.980 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 24.285 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 24.581 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 24.891 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 25.197 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 25.496 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 25.791 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 26.096 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 26.403 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 26.713 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 27.018 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 27.328 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 27.630 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 27.941 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 28.246 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 28.543 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 28.834 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 29.130 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 29.433 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 29.738 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 30.048 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 30.355 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 30.656 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 30.960 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 31.263 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 31.565 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 31.842 secs
+Energy = 30811153 (Ed=30147879, Es=663274), 32.144 secs
+******* Running Dual Decomposition for up to 500 x 1 iterations
+writing runtimes to person-Dual Decomposition.csv
+Energy = 225583004 (Ed=225583004, Es=0) at start (0.100 secs init)
+Energy = 33350484 (Ed=29924431, Es=3426053), 0.558 secs
+Energy = 33349827 (Ed=29924426, Es=3425401), 0.934 secs
+Energy = 33350005 (Ed=29924424, Es=3425581), 1.373 secs
+Warning: energy is increasing!
+Energy = 33350005 (Ed=29924424, Es=3425581), 1.803 secs
+Energy = 33351533 (Ed=29924424, Es=3427109), 2.221 secs
+Warning: energy is increasing!
+Energy = 33350005 (Ed=29924424, Es=3425581), 2.652 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 3.084 secs
+Warning: energy is increasing!
+Energy = 33350005 (Ed=29924424, Es=3425581), 3.501 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 3.894 secs
+Warning: energy is increasing!
+Energy = 33350005 (Ed=29924424, Es=3425581), 4.326 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 4.789 secs
+Warning: energy is increasing!
+Energy = 33350005 (Ed=29924424, Es=3425581), 5.246 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 5.694 secs
+Warning: energy is increasing!
+Energy = 33350005 (Ed=29924424, Es=3425581), 6.155 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 6.618 secs
+Warning: energy is increasing!
+Energy = 33350005 (Ed=29924424, Es=3425581), 7.080 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Warning: energy is increasing!
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs
+Energy = 33351783 (Ed=29924423, Es=3427360), 7.508 secs

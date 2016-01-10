@@ -1,0 +1,1947 @@
+data_family/familydatacost.png 5 data_family/small_DSC_0168.png data_family/small_DSC_0170.png data_family/small_DSC_0173.png data_family/small_DSC_0174.png data_family/small_DSC_0176.png (null) 
+******* Running ICM for up to 500 x 5 iterations
+writing runtimes to family-ICM.csv
+Energy = 4679501 (Ed=0, Es=4679501) at start (0.003 secs init)
+Energy = 2963620 (Ed=0, Es=2963620), 2.905 secs
+Energy = 2963573 (Ed=0, Es=2963573), 5.720 secs
+Energy = 2963573 (Ed=0, Es=2963573), 8.566 secs
+******* Running Expansion for up to 500 x 1 iterations
+writing runtimes to family-Expansion.csv
+Energy = 4679501 (Ed=0, Es=4679501) at start (0.001 secs init)
+Energy = 190817 (Ed=0, Es=190817), 4.484 secs
+Energy = 186722 (Ed=0, Es=186722), 6.848 secs
+Energy = 185505 (Ed=0, Es=185505), 9.109 secs
+Energy = 185505 (Ed=0, Es=185505), 11.587 secs
+******* Running Swap for up to 500 x 1 iterations
+writing runtimes to family-Swap.csv
+Energy = 4679501 (Ed=0, Es=4679501) at start (0.002 secs init)
+Energy = 1026111 (Ed=0, Es=1026111), 5.063 secs
+Energy = 786963 (Ed=0, Es=786963), 8.003 secs
+Energy = 658802 (Ed=0, Es=658802), 10.896 secs
+Energy = 567547 (Ed=0, Es=567547), 13.342 secs
+Energy = 549140 (Ed=0, Es=549140), 16.026 secs
+Energy = 536132 (Ed=0, Es=536132), 18.764 secs
+Energy = 533424 (Ed=0, Es=533424), 21.530 secs
+Energy = 533424 (Ed=0, Es=533424), 24.331 secs
+******* Running TRW-S for up to 500 x 1 iterations
+writing runtimes to family-TRW-S.csv
+Energy = 4679501 (Ed=0, Es=4679501) at start (2.087 secs init)
+Energy = 9144986 (Ed=0, Es=9144986), lower bound = 41401.6, 2.377 secs
+Energy = 7217644 (Ed=0, Es=7217644), lower bound = 53408.5, 2.710 secs
+Energy = 10808453 (Ed=0, Es=10808453), lower bound = 61368.7, 3.070 secs
+Energy = 10935277 (Ed=0, Es=10935277), lower bound = 67520.5, 3.425 secs
+Energy = 11024549 (Ed=0, Es=11024549), lower bound = 72624.9, 3.770 secs
+Energy = 10916744 (Ed=0, Es=10916744), lower bound = 77034.3, 4.127 secs
+Energy = 10791454 (Ed=0, Es=10791454), lower bound = 80976.5, 4.476 secs
+Energy = 10881348 (Ed=0, Es=10881348), lower bound = 84551.8, 4.814 secs
+Energy = 10780042 (Ed=0, Es=10780042), lower bound = 87847.6, 5.166 secs
+Energy = 10718124 (Ed=0, Es=10718124), lower bound = 90887.0, 5.519 secs
+Energy = 10703611 (Ed=0, Es=10703611), lower bound = 93686.3, 5.867 secs
+Energy = 10598768 (Ed=0, Es=10598768), lower bound = 96271.5, 6.207 secs
+Energy = 6391099 (Ed=0, Es=6391099), lower bound = 98666.9, 6.544 secs
+Energy = 6184378 (Ed=0, Es=6184378), lower bound = 100881.4, 6.891 secs
+Energy = 5982772 (Ed=0, Es=5982772), lower bound = 102929.7, 7.240 secs
+Energy = 7411088 (Ed=0, Es=7411088), lower bound = 104852.2, 7.590 secs
+Energy = 7003391 (Ed=0, Es=7003391), lower bound = 106669.0, 7.931 secs
+Energy = 6980900 (Ed=0, Es=6980900), lower bound = 108401.1, 8.286 secs
+Energy = 6963104 (Ed=0, Es=6963104), lower bound = 110056.8, 8.646 secs
+Energy = 8663412 (Ed=0, Es=8663412), lower bound = 111647.0, 9.000 secs
+Energy = 8766553 (Ed=0, Es=8766553), lower bound = 113179.8, 9.358 secs
+Energy = 8663381 (Ed=0, Es=8663381), lower bound = 114639.3, 9.710 secs
+Energy = 8538739 (Ed=0, Es=8538739), lower bound = 116040.1, 10.067 secs
+Energy = 8529389 (Ed=0, Es=8529389), lower bound = 117381.1, 10.422 secs
+Energy = 8410814 (Ed=0, Es=8410814), lower bound = 118681.9, 10.771 secs
+Energy = 8292876 (Ed=0, Es=8292876), lower bound = 119939.4, 11.130 secs
+Energy = 8196287 (Ed=0, Es=8196287), lower bound = 121153.7, 11.479 secs
+Energy = 8186973 (Ed=0, Es=8186973), lower bound = 122325.6, 11.825 secs
+Energy = 8077890 (Ed=0, Es=8077890), lower bound = 123467.0, 12.175 secs
+Energy = 7978579 (Ed=0, Es=7978579), lower bound = 124562.1, 12.538 secs
+Energy = 7981760 (Ed=0, Es=7981760), lower bound = 125623.0, 12.893 secs
+Energy = 7900126 (Ed=0, Es=7900126), lower bound = 126649.4, 13.259 secs
+Energy = 7799754 (Ed=0, Es=7799754), lower bound = 127641.6, 13.605 secs
+Energy = 5351346 (Ed=0, Es=5351346), lower bound = 128604.8, 13.968 secs
+Energy = 5356771 (Ed=0, Es=5356771), lower bound = 129545.2, 14.321 secs
+Energy = 5352159 (Ed=0, Es=5352159), lower bound = 130457.3, 14.666 secs
+Energy = 5354879 (Ed=0, Es=5354879), lower bound = 131344.6, 15.011 secs
+Energy = 5332176 (Ed=0, Es=5332176), lower bound = 132210.5, 15.371 secs
+Energy = 5329673 (Ed=0, Es=5329673), lower bound = 133053.4, 15.722 secs
+Energy = 5329300 (Ed=0, Es=5329300), lower bound = 133870.5, 16.039 secs
+Energy = 5321248 (Ed=0, Es=5321248), lower bound = 134663.1, 16.360 secs
+Energy = 5320062 (Ed=0, Es=5320062), lower bound = 135431.7, 16.685 secs
+Energy = 5419571 (Ed=0, Es=5419571), lower bound = 136177.6, 16.998 secs
+Energy = 5415941 (Ed=0, Es=5415941), lower bound = 136910.4, 17.327 secs
+Energy = 14235019 (Ed=0, Es=14235019), lower bound = 137626.4, 17.637 secs
+Energy = 14226090 (Ed=0, Es=14226090), lower bound = 138321.1, 17.934 secs
+Energy = 14196168 (Ed=0, Es=14196168), lower bound = 139000.8, 18.268 secs
+Energy = 14191360 (Ed=0, Es=14191360), lower bound = 139666.1, 18.600 secs
+Energy = 14194210 (Ed=0, Es=14194210), lower bound = 140314.8, 18.930 secs
+Energy = 14092166 (Ed=0, Es=14092166), lower bound = 140946.7, 19.276 secs
+Energy = 14094997 (Ed=0, Es=14094997), lower bound = 141561.3, 19.618 secs
+Energy = 14095001 (Ed=0, Es=14095001), lower bound = 142160.9, 19.964 secs
+Energy = 14094234 (Ed=0, Es=14094234), lower bound = 142745.9, 20.287 secs
+Energy = 14096252 (Ed=0, Es=14096252), lower bound = 143318.3, 20.628 secs
+Energy = 14093771 (Ed=0, Es=14093771), lower bound = 143877.8, 20.972 secs
+Energy = 13988877 (Ed=0, Es=13988877), lower bound = 144429.5, 21.321 secs
+Energy = 13862416 (Ed=0, Es=13862416), lower bound = 144971.6, 21.670 secs
+Energy = 13763326 (Ed=0, Es=13763326), lower bound = 145504.6, 22.025 secs
+Energy = 13759426 (Ed=0, Es=13759426), lower bound = 146026.3, 22.381 secs
+Energy = 13740991 (Ed=0, Es=13740991), lower bound = 146536.7, 22.728 secs
+Energy = 13745026 (Ed=0, Es=13745026), lower bound = 147037.8, 23.052 secs
+Energy = 13843846 (Ed=0, Es=13843846), lower bound = 147527.0, 23.410 secs
+Energy = 13855297 (Ed=0, Es=13855297), lower bound = 148008.6, 23.747 secs
+Energy = 11850618 (Ed=0, Es=11850618), lower bound = 148483.2, 24.099 secs
+Energy = 11808118 (Ed=0, Es=11808118), lower bound = 148946.7, 24.438 secs
+Energy = 14106349 (Ed=0, Es=14106349), lower bound = 149402.2, 24.773 secs
+Energy = 14403673 (Ed=0, Es=14403673), lower bound = 149850.0, 25.105 secs
+Energy = 14403319 (Ed=0, Es=14403319), lower bound = 150292.8, 25.446 secs
+Energy = 14393072 (Ed=0, Es=14393072), lower bound = 150728.4, 25.808 secs
+Energy = 12391993 (Ed=0, Es=12391993), lower bound = 151152.4, 26.173 secs
+Energy = 12391752 (Ed=0, Es=12391752), lower bound = 151569.9, 26.515 secs
+Energy = 12681219 (Ed=0, Es=12681219), lower bound = 151979.1, 26.852 secs
+Energy = 12680292 (Ed=0, Es=12680292), lower bound = 152378.9, 27.182 secs
+Energy = 13478637 (Ed=0, Es=13478637), lower bound = 152774.3, 27.523 secs
+Energy = 11668970 (Ed=0, Es=11668970), lower bound = 153159.9, 27.863 secs
+Energy = 11668857 (Ed=0, Es=11668857), lower bound = 153536.8, 28.210 secs
+Energy = 11567820 (Ed=0, Es=11567820), lower bound = 153909.1, 28.545 secs
+Energy = 3540647 (Ed=0, Es=3540647), lower bound = 154271.9, 28.883 secs
+Energy = 3540290 (Ed=0, Es=3540290), lower bound = 154628.2, 29.214 secs
+Energy = 3544965 (Ed=0, Es=3544965), lower bound = 154980.0, 29.563 secs
+Energy = 12989743 (Ed=0, Es=12989743), lower bound = 155326.2, 29.901 secs
+Energy = 12989743 (Ed=0, Es=12989743), lower bound = 155662.6, 30.247 secs
+Energy = 12988232 (Ed=0, Es=12988232), lower bound = 155986.2, 30.591 secs
+Energy = 12952308 (Ed=0, Es=12952308), lower bound = 156305.3, 30.925 secs
+Energy = 12856648 (Ed=0, Es=12856648), lower bound = 156619.9, 31.263 secs
+Energy = 12756648 (Ed=0, Es=12756648), lower bound = 156926.0, 31.604 secs
+Energy = 12755010 (Ed=0, Es=12755010), lower bound = 157227.6, 31.944 secs
+Energy = 12759229 (Ed=0, Es=12759229), lower bound = 157523.1, 32.294 secs
+Energy = 12783606 (Ed=0, Es=12783606), lower bound = 157813.5, 32.638 secs
+Energy = 12684520 (Ed=0, Es=12684520), lower bound = 158099.0, 32.970 secs
+Energy = 12569183 (Ed=0, Es=12569183), lower bound = 158380.0, 33.313 secs
+Energy = 12570798 (Ed=0, Es=12570798), lower bound = 158655.5, 33.678 secs
+Energy = 12581565 (Ed=0, Es=12581565), lower bound = 158927.1, 34.043 secs
+Energy = 12375854 (Ed=0, Es=12375854), lower bound = 159195.8, 34.389 secs
+Energy = 12338780 (Ed=0, Es=12338780), lower bound = 159461.6, 34.743 secs
+Energy = 12334475 (Ed=0, Es=12334475), lower bound = 159724.6, 35.073 secs
+Energy = 11332934 (Ed=0, Es=11332934), lower bound = 159984.6, 35.415 secs
+Energy = 11535290 (Ed=0, Es=11535290), lower bound = 160241.7, 35.731 secs
+Energy = 11436993 (Ed=0, Es=11436993), lower bound = 160495.9, 36.046 secs
+Energy = 11438105 (Ed=0, Es=11438105), lower bound = 160746.8, 36.372 secs
+Energy = 11441328 (Ed=0, Es=11441328), lower bound = 160994.8, 36.692 secs
+Energy = 11441990 (Ed=0, Es=11441990), lower bound = 161239.4, 37.012 secs
+Energy = 11443125 (Ed=0, Es=11443125), lower bound = 161480.5, 37.311 secs
+Energy = 11415364 (Ed=0, Es=11415364), lower bound = 161718.5, 37.630 secs
+Energy = 11415315 (Ed=0, Es=11415315), lower bound = 161954.7, 37.970 secs
+Energy = 11316448 (Ed=0, Es=11316448), lower bound = 162189.2, 38.299 secs
+Energy = 11292810 (Ed=0, Es=11292810), lower bound = 162421.2, 38.634 secs
+Energy = 11592810 (Ed=0, Es=11592810), lower bound = 162651.2, 38.961 secs
+Energy = 11592893 (Ed=0, Es=11592893), lower bound = 162878.3, 39.292 secs
+Energy = 11586412 (Ed=0, Es=11586412), lower bound = 163101.9, 39.623 secs
+Energy = 11586748 (Ed=0, Es=11586748), lower bound = 163323.1, 39.948 secs
+Energy = 11585926 (Ed=0, Es=11585926), lower bound = 163540.5, 40.270 secs
+Energy = 11589513 (Ed=0, Es=11589513), lower bound = 163755.1, 40.621 secs
+Energy = 11591512 (Ed=0, Es=11591512), lower bound = 163966.3, 40.965 secs
+Energy = 11592269 (Ed=0, Es=11592269), lower bound = 164174.6, 41.290 secs
+Energy = 11583315 (Ed=0, Es=11583315), lower bound = 164380.1, 41.620 secs
+Energy = 11571072 (Ed=0, Es=11571072), lower bound = 164582.4, 41.958 secs
+Energy = 11773202 (Ed=0, Es=11773202), lower bound = 164782.2, 42.282 secs
+Energy = 11769062 (Ed=0, Es=11769062), lower bound = 164978.8, 42.626 secs
+Energy = 11769641 (Ed=0, Es=11769641), lower bound = 165172.8, 42.968 secs
+Energy = 11769451 (Ed=0, Es=11769451), lower bound = 165364.6, 43.301 secs
+Energy = 11773686 (Ed=0, Es=11773686), lower bound = 165554.6, 43.628 secs
+Energy = 11776453 (Ed=0, Es=11776453), lower bound = 165742.8, 43.970 secs
+Energy = 11877740 (Ed=0, Es=11877740), lower bound = 165927.7, 44.288 secs
+Energy = 11892858 (Ed=0, Es=11892858), lower bound = 166110.5, 44.622 secs
+Energy = 11892376 (Ed=0, Es=11892376), lower bound = 166290.0, 44.952 secs
+Energy = 11893693 (Ed=0, Es=11893693), lower bound = 166466.7, 45.296 secs
+Energy = 11893811 (Ed=0, Es=11893811), lower bound = 166640.8, 45.638 secs
+Energy = 12033086 (Ed=0, Es=12033086), lower bound = 166813.0, 45.979 secs
+Energy = 12030344 (Ed=0, Es=12030344), lower bound = 166982.4, 46.328 secs
+Energy = 12035300 (Ed=0, Es=12035300), lower bound = 167149.5, 46.697 secs
+Energy = 12069326 (Ed=0, Es=12069326), lower bound = 167314.5, 47.055 secs
+Energy = 12168302 (Ed=0, Es=12168302), lower bound = 167476.4, 47.388 secs
+Energy = 12174077 (Ed=0, Es=12174077), lower bound = 167635.5, 47.730 secs
+Energy = 12120236 (Ed=0, Es=12120236), lower bound = 167792.0, 48.055 secs
+Energy = 12120408 (Ed=0, Es=12120408), lower bound = 167945.9, 48.388 secs
+Energy = 12119793 (Ed=0, Es=12119793), lower bound = 168097.7, 48.688 secs
+Energy = 12114075 (Ed=0, Es=12114075), lower bound = 168247.8, 49.023 secs
+Energy = 12101430 (Ed=0, Es=12101430), lower bound = 168395.5, 49.327 secs
+Energy = 12102406 (Ed=0, Es=12102406), lower bound = 168541.3, 49.619 secs
+Energy = 11988125 (Ed=0, Es=11988125), lower bound = 168685.3, 49.911 secs
+Energy = 11987281 (Ed=0, Es=11987281), lower bound = 168828.0, 50.196 secs
+Energy = 12084753 (Ed=0, Es=12084753), lower bound = 168969.0, 50.481 secs
+Energy = 12084753 (Ed=0, Es=12084753), lower bound = 169108.2, 50.780 secs
+Energy = 12089599 (Ed=0, Es=12089599), lower bound = 169245.7, 51.074 secs
+Energy = 12089646 (Ed=0, Es=12089646), lower bound = 169381.6, 51.367 secs
+Energy = 12089693 (Ed=0, Es=12089693), lower bound = 169515.9, 51.704 secs
+Energy = 12088140 (Ed=0, Es=12088140), lower bound = 169648.9, 52.029 secs
+Energy = 12087714 (Ed=0, Es=12087714), lower bound = 169777.6, 52.341 secs
+Energy = 12082536 (Ed=0, Es=12082536), lower bound = 169903.5, 52.645 secs
+Energy = 12183393 (Ed=0, Es=12183393), lower bound = 170027.9, 52.932 secs
+Energy = 12188179 (Ed=0, Es=12188179), lower bound = 170150.0, 53.227 secs
+Energy = 12188211 (Ed=0, Es=12188211), lower bound = 170270.4, 53.514 secs
+Energy = 12287607 (Ed=0, Es=12287607), lower bound = 170388.9, 53.792 secs
+Energy = 12300158 (Ed=0, Es=12300158), lower bound = 170505.2, 54.111 secs
+Energy = 12297565 (Ed=0, Es=12297565), lower bound = 170618.7, 54.432 secs
+Energy = 12397626 (Ed=0, Es=12397626), lower bound = 170729.8, 54.731 secs
+Energy = 12400219 (Ed=0, Es=12400219), lower bound = 170838.6, 55.019 secs
+Energy = 12397804 (Ed=0, Es=12397804), lower bound = 170944.9, 55.304 secs
+Energy = 12397804 (Ed=0, Es=12397804), lower bound = 171049.8, 55.588 secs
+Energy = 12494821 (Ed=0, Es=12494821), lower bound = 171153.3, 55.880 secs
+Energy = 12495145 (Ed=0, Es=12495145), lower bound = 171254.9, 56.175 secs
+Energy = 12505881 (Ed=0, Es=12505881), lower bound = 171355.1, 56.476 secs
+Energy = 12491034 (Ed=0, Es=12491034), lower bound = 171453.5, 56.774 secs
+Energy = 12596422 (Ed=0, Es=12596422), lower bound = 171550.7, 57.075 secs
+Energy = 12580493 (Ed=0, Es=12580493), lower bound = 171646.7, 57.354 secs
+Energy = 12580516 (Ed=0, Es=12580516), lower bound = 171741.2, 57.682 secs
+Energy = 12580733 (Ed=0, Es=12580733), lower bound = 171834.7, 57.985 secs
+Energy = 12581003 (Ed=0, Es=12581003), lower bound = 171927.5, 58.291 secs
+Energy = 12580351 (Ed=0, Es=12580351), lower bound = 172019.2, 58.578 secs
+Energy = 12580048 (Ed=0, Es=12580048), lower bound = 172109.7, 58.860 secs
+Energy = 12581164 (Ed=0, Es=12581164), lower bound = 172199.5, 59.148 secs
+Energy = 12581164 (Ed=0, Es=12581164), lower bound = 172288.4, 59.429 secs
+Energy = 12581164 (Ed=0, Es=12581164), lower bound = 172376.5, 59.709 secs
+Energy = 12578167 (Ed=0, Es=12578167), lower bound = 172464.1, 59.989 secs
+Energy = 12578151 (Ed=0, Es=12578151), lower bound = 172551.0, 60.301 secs
+Energy = 12672034 (Ed=0, Es=12672034), lower bound = 172637.0, 60.632 secs
+Energy = 12771922 (Ed=0, Es=12771922), lower bound = 172722.4, 60.962 secs
+Energy = 12756064 (Ed=0, Es=12756064), lower bound = 172806.8, 61.326 secs
+Energy = 12739868 (Ed=0, Es=12739868), lower bound = 172890.2, 61.677 secs
+Energy = 12839746 (Ed=0, Es=12839746), lower bound = 172972.8, 61.975 secs
+Energy = 12839745 (Ed=0, Es=12839745), lower bound = 173054.5, 62.262 secs
+Energy = 12839616 (Ed=0, Es=12839616), lower bound = 173135.3, 62.563 secs
+Energy = 12842630 (Ed=0, Es=12842630), lower bound = 173215.2, 62.902 secs
+Energy = 12842625 (Ed=0, Es=12842625), lower bound = 173293.4, 63.205 secs
+Energy = 12842598 (Ed=0, Es=12842598), lower bound = 173370.4, 63.535 secs
+Energy = 12842146 (Ed=0, Es=12842146), lower bound = 173446.1, 63.831 secs
+Energy = 12842146 (Ed=0, Es=12842146), lower bound = 173520.8, 64.113 secs
+Energy = 12842583 (Ed=0, Es=12842583), lower bound = 173594.2, 64.420 secs
+Energy = 12842118 (Ed=0, Es=12842118), lower bound = 173666.6, 64.732 secs
+Energy = 12842129 (Ed=0, Es=12842129), lower bound = 173738.0, 65.041 secs
+Energy = 12942129 (Ed=0, Es=12942129), lower bound = 173808.2, 65.393 secs
+Energy = 12940209 (Ed=0, Es=12940209), lower bound = 173876.8, 65.737 secs
+Energy = 12940209 (Ed=0, Es=12940209), lower bound = 173943.8, 66.088 secs
+Energy = 12940209 (Ed=0, Es=12940209), lower bound = 174010.1, 66.388 secs
+Energy = 12940209 (Ed=0, Es=12940209), lower bound = 174075.9, 66.696 secs
+Energy = 12939491 (Ed=0, Es=12939491), lower bound = 174141.3, 66.988 secs
+Energy = 12939383 (Ed=0, Es=12939383), lower bound = 174206.1, 67.305 secs
+Energy = 12942836 (Ed=0, Es=12942836), lower bound = 174270.1, 67.639 secs
+Energy = 13029137 (Ed=0, Es=13029137), lower bound = 174333.3, 67.958 secs
+Energy = 13028619 (Ed=0, Es=13028619), lower bound = 174395.5, 68.258 secs
+Energy = 13128471 (Ed=0, Es=13128471), lower bound = 174457.2, 68.559 secs
+Energy = 13128478 (Ed=0, Es=13128478), lower bound = 174518.5, 68.869 secs
+Energy = 13227286 (Ed=0, Es=13227286), lower bound = 174579.4, 69.155 secs
+Energy = 13227722 (Ed=0, Es=13227722), lower bound = 174639.8, 69.442 secs
+Energy = 13326320 (Ed=0, Es=13326320), lower bound = 174699.8, 69.719 secs
+Energy = 13426270 (Ed=0, Es=13426270), lower bound = 174759.6, 70.003 secs
+Energy = 13415892 (Ed=0, Es=13415892), lower bound = 174819.0, 70.313 secs
+Energy = 13515892 (Ed=0, Es=13515892), lower bound = 174878.1, 70.607 secs
+Energy = 13516177 (Ed=0, Es=13516177), lower bound = 174936.9, 70.912 secs
+Energy = 13616177 (Ed=0, Es=13616177), lower bound = 174995.0, 71.208 secs
+Energy = 13616180 (Ed=0, Es=13616180), lower bound = 175052.8, 71.542 secs
+Energy = 13616180 (Ed=0, Es=13616180), lower bound = 175110.4, 71.877 secs
+Energy = 13716180 (Ed=0, Es=13716180), lower bound = 175167.8, 72.231 secs
+Energy = 13719108 (Ed=0, Es=13719108), lower bound = 175224.9, 72.593 secs
+Energy = 13719500 (Ed=0, Es=13719500), lower bound = 175281.8, 72.958 secs
+Energy = 13718741 (Ed=0, Es=13718741), lower bound = 175338.3, 73.293 secs
+Energy = 13718741 (Ed=0, Es=13718741), lower bound = 175394.4, 73.601 secs
+Energy = 13718654 (Ed=0, Es=13718654), lower bound = 175450.1, 73.896 secs
+Energy = 12726291 (Ed=0, Es=12726291), lower bound = 175505.7, 74.248 secs
+Energy = 12726229 (Ed=0, Es=12726229), lower bound = 175561.0, 74.556 secs
+Energy = 12726007 (Ed=0, Es=12726007), lower bound = 175615.9, 74.852 secs
+Energy = 12626252 (Ed=0, Es=12626252), lower bound = 175670.2, 75.150 secs
+Energy = 12626252 (Ed=0, Es=12626252), lower bound = 175724.1, 75.481 secs
+Energy = 12623833 (Ed=0, Es=12623833), lower bound = 175777.6, 75.794 secs
+Energy = 12623833 (Ed=0, Es=12623833), lower bound = 175830.9, 76.086 secs
+Energy = 12623833 (Ed=0, Es=12623833), lower bound = 175883.7, 76.416 secs
+Energy = 12626418 (Ed=0, Es=12626418), lower bound = 175936.2, 76.725 secs
+Energy = 12626355 (Ed=0, Es=12626355), lower bound = 175988.5, 77.050 secs
+Energy = 12625922 (Ed=0, Es=12625922), lower bound = 176040.5, 77.332 secs
+Energy = 12625922 (Ed=0, Es=12625922), lower bound = 176092.3, 77.622 secs
+Energy = 12825244 (Ed=0, Es=12825244), lower bound = 176143.8, 77.919 secs
+Energy = 12825244 (Ed=0, Es=12825244), lower bound = 176194.8, 78.251 secs
+Energy = 12825386 (Ed=0, Es=12825386), lower bound = 176245.3, 78.560 secs
+Energy = 12823895 (Ed=0, Es=12823895), lower bound = 176295.5, 78.877 secs
+Energy = 12823703 (Ed=0, Es=12823703), lower bound = 176345.3, 79.183 secs
+Energy = 12823703 (Ed=0, Es=12823703), lower bound = 176394.7, 79.469 secs
+Energy = 12828511 (Ed=0, Es=12828511), lower bound = 176443.4, 79.762 secs
+Energy = 12625576 (Ed=0, Es=12625576), lower bound = 176491.6, 80.065 secs
+Energy = 12625613 (Ed=0, Es=12625613), lower bound = 176539.5, 80.401 secs
+Energy = 12625705 (Ed=0, Es=12625705), lower bound = 176587.2, 80.718 secs
+Energy = 12625628 (Ed=0, Es=12625628), lower bound = 176634.7, 81.018 secs
+Energy = 12725628 (Ed=0, Es=12725628), lower bound = 176681.8, 81.318 secs
+Energy = 12725628 (Ed=0, Es=12725628), lower bound = 176728.4, 81.613 secs
+Energy = 12725616 (Ed=0, Es=12725616), lower bound = 176774.7, 81.919 secs
+Energy = 12725616 (Ed=0, Es=12725616), lower bound = 176820.5, 82.209 secs
+Energy = 12725861 (Ed=0, Es=12725861), lower bound = 176866.0, 82.507 secs
+Energy = 12726937 (Ed=0, Es=12726937), lower bound = 176911.3, 82.792 secs
+Energy = 21323574 (Ed=0, Es=21323574), lower bound = 176956.2, 83.072 secs
+Energy = 21423574 (Ed=0, Es=21423574), lower bound = 177001.0, 83.352 secs
+Energy = 21422503 (Ed=0, Es=21422503), lower bound = 177045.7, 83.631 secs
+Energy = 21422511 (Ed=0, Es=21422511), lower bound = 177090.2, 83.931 secs
+Energy = 21422511 (Ed=0, Es=21422511), lower bound = 177134.4, 84.226 secs
+Energy = 21422681 (Ed=0, Es=21422681), lower bound = 177178.4, 84.566 secs
+Energy = 21422681 (Ed=0, Es=21422681), lower bound = 177221.9, 84.861 secs
+Energy = 21422681 (Ed=0, Es=21422681), lower bound = 177265.1, 85.140 secs
+Energy = 21422665 (Ed=0, Es=21422665), lower bound = 177308.1, 85.420 secs
+Energy = 21422665 (Ed=0, Es=21422665), lower bound = 177350.9, 85.717 secs
+Energy = 21422665 (Ed=0, Es=21422665), lower bound = 177393.6, 86.018 secs
+Energy = 21622822 (Ed=0, Es=21622822), lower bound = 177435.9, 86.289 secs
+Energy = 21622822 (Ed=0, Es=21622822), lower bound = 177478.0, 86.584 secs
+Energy = 21629688 (Ed=0, Es=21629688), lower bound = 177519.8, 86.883 secs
+Energy = 21527262 (Ed=0, Es=21527262), lower bound = 177561.0, 87.173 secs
+Energy = 21525909 (Ed=0, Es=21525909), lower bound = 177601.5, 87.463 secs
+Energy = 21525965 (Ed=0, Es=21525965), lower bound = 177641.9, 87.751 secs
+Energy = 21522613 (Ed=0, Es=21522613), lower bound = 177682.1, 88.054 secs
+Energy = 21523037 (Ed=0, Es=21523037), lower bound = 177722.1, 88.333 secs
+Energy = 21723037 (Ed=0, Es=21723037), lower bound = 177762.1, 88.632 secs
+Energy = 21723037 (Ed=0, Es=21723037), lower bound = 177801.9, 88.909 secs
+Energy = 21722894 (Ed=0, Es=21722894), lower bound = 177841.7, 89.202 secs
+Energy = 309057 (Ed=0, Es=309057), lower bound = 177881.4, 89.503 secs
+Energy = 309104 (Ed=0, Es=309104), lower bound = 177920.9, 89.803 secs
+Energy = 309104 (Ed=0, Es=309104), lower bound = 177960.3, 90.087 secs
+Energy = 309104 (Ed=0, Es=309104), lower bound = 177999.6, 90.381 secs
+Energy = 309104 (Ed=0, Es=309104), lower bound = 178038.7, 90.706 secs
+Energy = 304504 (Ed=0, Es=304504), lower bound = 178077.7, 91.018 secs
+Energy = 304504 (Ed=0, Es=304504), lower bound = 178116.5, 91.318 secs
+Energy = 304504 (Ed=0, Es=304504), lower bound = 178155.0, 91.627 secs
+Energy = 305610 (Ed=0, Es=305610), lower bound = 178193.3, 91.920 secs
+Energy = 311247 (Ed=0, Es=311247), lower bound = 178231.3, 92.213 secs
+Energy = 311247 (Ed=0, Es=311247), lower bound = 178269.2, 92.492 secs
+Energy = 312326 (Ed=0, Es=312326), lower bound = 178306.8, 92.784 secs
+Energy = 309694 (Ed=0, Es=309694), lower bound = 178344.3, 93.064 secs
+Energy = 309842 (Ed=0, Es=309842), lower bound = 178381.4, 93.349 secs
+Energy = 309842 (Ed=0, Es=309842), lower bound = 178418.3, 93.622 secs
+Energy = 309841 (Ed=0, Es=309841), lower bound = 178455.1, 93.916 secs
+Energy = 309640 (Ed=0, Es=309640), lower bound = 178491.7, 94.195 secs
+Energy = 309640 (Ed=0, Es=309640), lower bound = 178528.2, 94.475 secs
+Energy = 309570 (Ed=0, Es=309570), lower bound = 178564.5, 94.749 secs
+Energy = 308384 (Ed=0, Es=308384), lower bound = 178600.6, 95.034 secs
+Energy = 308488 (Ed=0, Es=308488), lower bound = 178636.4, 95.320 secs
+Energy = 310432 (Ed=0, Es=310432), lower bound = 178671.8, 95.614 secs
+Energy = 310448 (Ed=0, Es=310448), lower bound = 178706.8, 95.909 secs
+Energy = 310448 (Ed=0, Es=310448), lower bound = 178741.5, 96.187 secs
+Energy = 310089 (Ed=0, Es=310089), lower bound = 178776.0, 96.486 secs
+Energy = 310089 (Ed=0, Es=310089), lower bound = 178810.2, 96.808 secs
+Energy = 310151 (Ed=0, Es=310151), lower bound = 178844.4, 97.122 secs
+Energy = 310639 (Ed=0, Es=310639), lower bound = 178878.3, 97.434 secs
+Energy = 310639 (Ed=0, Es=310639), lower bound = 178912.2, 97.706 secs
+Energy = 310639 (Ed=0, Es=310639), lower bound = 178946.0, 97.981 secs
+Energy = 314204 (Ed=0, Es=314204), lower bound = 178979.5, 98.285 secs
+Energy = 314493 (Ed=0, Es=314493), lower bound = 179012.9, 98.614 secs
+Energy = 308035 (Ed=0, Es=308035), lower bound = 179046.2, 98.916 secs
+Energy = 309085 (Ed=0, Es=309085), lower bound = 179079.2, 99.226 secs
+Energy = 308768 (Ed=0, Es=308768), lower bound = 179112.1, 99.509 secs
+Energy = 308766 (Ed=0, Es=308766), lower bound = 179144.8, 99.795 secs
+Energy = 308766 (Ed=0, Es=308766), lower bound = 179177.3, 100.088 secs
+Energy = 304004 (Ed=0, Es=304004), lower bound = 179209.6, 100.385 secs
+Energy = 304004 (Ed=0, Es=304004), lower bound = 179241.7, 100.704 secs
+Energy = 305092 (Ed=0, Es=305092), lower bound = 179273.6, 101.005 secs
+Energy = 303638 (Ed=0, Es=303638), lower bound = 179305.3, 101.300 secs
+Energy = 301430 (Ed=0, Es=301430), lower bound = 179336.8, 101.592 secs
+Energy = 297946 (Ed=0, Es=297946), lower bound = 179368.2, 101.879 secs
+Energy = 1501948 (Ed=0, Es=1501948), lower bound = 179399.3, 102.172 secs
+Energy = 1501940 (Ed=0, Es=1501940), lower bound = 179430.4, 102.472 secs
+Energy = 1501474 (Ed=0, Es=1501474), lower bound = 179461.2, 102.769 secs
+Energy = 1501474 (Ed=0, Es=1501474), lower bound = 179491.7, 103.067 secs
+Energy = 1501260 (Ed=0, Es=1501260), lower bound = 179521.9, 103.363 secs
+Energy = 1501133 (Ed=0, Es=1501133), lower bound = 179551.7, 103.654 secs
+Energy = 1476685 (Ed=0, Es=1476685), lower bound = 179581.3, 103.944 secs
+Energy = 1476806 (Ed=0, Es=1476806), lower bound = 179610.7, 104.260 secs
+Energy = 1476806 (Ed=0, Es=1476806), lower bound = 179640.0, 104.550 secs
+Energy = 1476806 (Ed=0, Es=1476806), lower bound = 179669.2, 104.851 secs
+Energy = 1476806 (Ed=0, Es=1476806), lower bound = 179698.1, 105.127 secs
+Energy = 1476806 (Ed=0, Es=1476806), lower bound = 179727.0, 105.399 secs
+Energy = 1476806 (Ed=0, Es=1476806), lower bound = 179755.6, 105.707 secs
+Energy = 1476863 (Ed=0, Es=1476863), lower bound = 179784.2, 105.991 secs
+Energy = 1476863 (Ed=0, Es=1476863), lower bound = 179812.5, 106.280 secs
+Energy = 1476196 (Ed=0, Es=1476196), lower bound = 179840.6, 106.570 secs
+Energy = 1476239 (Ed=0, Es=1476239), lower bound = 179868.7, 106.847 secs
+Energy = 1476239 (Ed=0, Es=1476239), lower bound = 179896.1, 107.131 secs
+Energy = 1474335 (Ed=0, Es=1474335), lower bound = 179923.4, 107.412 secs
+Energy = 1474619 (Ed=0, Es=1474619), lower bound = 179950.6, 107.681 secs
+Energy = 1473360 (Ed=0, Es=1473360), lower bound = 179977.7, 107.972 secs
+Energy = 1475736 (Ed=0, Es=1475736), lower bound = 180004.7, 108.263 secs
+Energy = 1474613 (Ed=0, Es=1474613), lower bound = 180031.7, 108.552 secs
+Energy = 1472432 (Ed=0, Es=1472432), lower bound = 180058.6, 108.845 secs
+Energy = 1472614 (Ed=0, Es=1472614), lower bound = 180085.5, 109.126 secs
+Energy = 1472427 (Ed=0, Es=1472427), lower bound = 180112.4, 109.412 secs
+Energy = 1472333 (Ed=0, Es=1472333), lower bound = 180139.1, 109.692 secs
+Energy = 1472333 (Ed=0, Es=1472333), lower bound = 180165.7, 109.974 secs
+Energy = 1472316 (Ed=0, Es=1472316), lower bound = 180192.2, 110.259 secs
+Energy = 1472573 (Ed=0, Es=1472573), lower bound = 180218.6, 110.550 secs
+Energy = 1473078 (Ed=0, Es=1473078), lower bound = 180244.9, 110.840 secs
+Energy = 1470199 (Ed=0, Es=1470199), lower bound = 180271.1, 111.118 secs
+Energy = 1470576 (Ed=0, Es=1470576), lower bound = 180296.5, 111.434 secs
+Energy = 1470576 (Ed=0, Es=1470576), lower bound = 180321.2, 111.742 secs
+Energy = 1470170 (Ed=0, Es=1470170), lower bound = 180345.8, 112.036 secs
+Energy = 1470249 (Ed=0, Es=1470249), lower bound = 180370.3, 112.344 secs
+Energy = 1470314 (Ed=0, Es=1470314), lower bound = 180394.7, 112.638 secs
+Energy = 1470351 (Ed=0, Es=1470351), lower bound = 180419.0, 112.908 secs
+Energy = 1470451 (Ed=0, Es=1470451), lower bound = 180443.2, 113.189 secs
+Energy = 1469939 (Ed=0, Es=1469939), lower bound = 180467.4, 113.465 secs
+Energy = 1469893 (Ed=0, Es=1469893), lower bound = 180491.4, 113.754 secs
+Energy = 1473428 (Ed=0, Es=1473428), lower bound = 180515.4, 114.024 secs
+Energy = 1473266 (Ed=0, Es=1473266), lower bound = 180539.4, 114.322 secs
+Energy = 1473266 (Ed=0, Es=1473266), lower bound = 180563.2, 114.616 secs
+Energy = 1473262 (Ed=0, Es=1473262), lower bound = 180587.0, 114.888 secs
+Energy = 1473658 (Ed=0, Es=1473658), lower bound = 180610.5, 115.164 secs
+Energy = 1473658 (Ed=0, Es=1473658), lower bound = 180633.9, 115.437 secs
+Energy = 1473658 (Ed=0, Es=1473658), lower bound = 180657.1, 115.710 secs
+Energy = 1473658 (Ed=0, Es=1473658), lower bound = 180680.2, 115.989 secs
+Energy = 1458935 (Ed=0, Es=1458935), lower bound = 180703.3, 116.279 secs
+Energy = 1456089 (Ed=0, Es=1456089), lower bound = 180726.1, 116.561 secs
+Energy = 1456089 (Ed=0, Es=1456089), lower bound = 180748.7, 116.834 secs
+Energy = 1454945 (Ed=0, Es=1454945), lower bound = 180771.2, 117.101 secs
+Energy = 1454633 (Ed=0, Es=1454633), lower bound = 180793.5, 117.381 secs
+Energy = 1454398 (Ed=0, Es=1454398), lower bound = 180815.6, 117.666 secs
+Energy = 1454398 (Ed=0, Es=1454398), lower bound = 180837.6, 117.944 secs
+Energy = 1454530 (Ed=0, Es=1454530), lower bound = 180859.5, 118.233 secs
+Energy = 1454530 (Ed=0, Es=1454530), lower bound = 180881.3, 118.513 secs
+Energy = 1454530 (Ed=0, Es=1454530), lower bound = 180902.9, 118.793 secs
+Energy = 1454800 (Ed=0, Es=1454800), lower bound = 180924.3, 119.066 secs
+Energy = 1455104 (Ed=0, Es=1455104), lower bound = 180945.7, 119.343 secs
+Energy = 1455104 (Ed=0, Es=1455104), lower bound = 180967.0, 119.622 secs
+Energy = 1455104 (Ed=0, Es=1455104), lower bound = 180988.3, 119.902 secs
+Energy = 1455104 (Ed=0, Es=1455104), lower bound = 181009.6, 120.183 secs
+Energy = 1455104 (Ed=0, Es=1455104), lower bound = 181030.8, 120.496 secs
+Energy = 1455104 (Ed=0, Es=1455104), lower bound = 181051.9, 120.795 secs
+Energy = 1454487 (Ed=0, Es=1454487), lower bound = 181072.7, 121.083 secs
+Energy = 1454487 (Ed=0, Es=1454487), lower bound = 181093.2, 121.389 secs
+Energy = 1454487 (Ed=0, Es=1454487), lower bound = 181113.6, 121.698 secs
+Energy = 1454487 (Ed=0, Es=1454487), lower bound = 181133.8, 122.003 secs
+Energy = 1454487 (Ed=0, Es=1454487), lower bound = 181153.8, 122.303 secs
+Energy = 1454487 (Ed=0, Es=1454487), lower bound = 181173.3, 122.595 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181192.7, 122.887 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181211.8, 123.177 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181230.8, 123.465 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181249.8, 123.761 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181268.7, 124.094 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181287.5, 124.397 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181306.1, 124.705 secs
+Energy = 1454372 (Ed=0, Es=1454372), lower bound = 181324.7, 124.998 secs
+Energy = 1456784 (Ed=0, Es=1456784), lower bound = 181343.0, 125.280 secs
+Energy = 1456784 (Ed=0, Es=1456784), lower bound = 181361.3, 125.565 secs
+Energy = 1456760 (Ed=0, Es=1456760), lower bound = 181379.4, 125.860 secs
+Energy = 1456760 (Ed=0, Es=1456760), lower bound = 181397.4, 126.144 secs
+Energy = 1456760 (Ed=0, Es=1456760), lower bound = 181415.4, 126.435 secs
+Energy = 1454868 (Ed=0, Es=1454868), lower bound = 181433.3, 126.723 secs
+Energy = 1454868 (Ed=0, Es=1454868), lower bound = 181451.1, 127.000 secs
+Energy = 1454641 (Ed=0, Es=1454641), lower bound = 181468.9, 127.284 secs
+Energy = 1454641 (Ed=0, Es=1454641), lower bound = 181486.5, 127.558 secs
+Energy = 1454745 (Ed=0, Es=1454745), lower bound = 181504.0, 127.837 secs
+Energy = 1454745 (Ed=0, Es=1454745), lower bound = 181521.4, 128.105 secs
+Energy = 1454666 (Ed=0, Es=1454666), lower bound = 181538.7, 128.389 secs
+Energy = 1454489 (Ed=0, Es=1454489), lower bound = 181555.9, 128.663 secs
+Energy = 1454489 (Ed=0, Es=1454489), lower bound = 181573.1, 128.954 secs
+Energy = 1454391 (Ed=0, Es=1454391), lower bound = 181590.2, 129.225 secs
+Energy = 1454626 (Ed=0, Es=1454626), lower bound = 181607.2, 129.495 secs
+Energy = 1454626 (Ed=0, Es=1454626), lower bound = 181624.0, 129.791 secs
+Energy = 1454626 (Ed=0, Es=1454626), lower bound = 181640.8, 130.072 secs
+Energy = 1454626 (Ed=0, Es=1454626), lower bound = 181657.5, 130.349 secs
+Energy = 1454626 (Ed=0, Es=1454626), lower bound = 181674.1, 130.637 secs
+Energy = 1454626 (Ed=0, Es=1454626), lower bound = 181690.7, 130.932 secs
+Energy = 1455400 (Ed=0, Es=1455400), lower bound = 181707.2, 131.208 secs
+Energy = 1455032 (Ed=0, Es=1455032), lower bound = 181723.6, 131.499 secs
+Energy = 1455032 (Ed=0, Es=1455032), lower bound = 181740.0, 131.759 secs
+Energy = 1455032 (Ed=0, Es=1455032), lower bound = 181756.1, 132.025 secs
+Energy = 1455032 (Ed=0, Es=1455032), lower bound = 181771.6, 132.313 secs
+Energy = 1455032 (Ed=0, Es=1455032), lower bound = 181787.0, 132.599 secs
+Energy = 1455032 (Ed=0, Es=1455032), lower bound = 181802.4, 132.894 secs
+Energy = 1455032 (Ed=0, Es=1455032), lower bound = 181817.7, 133.175 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181833.1, 133.439 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181848.4, 133.723 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181863.7, 134.003 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181878.9, 134.276 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181894.2, 134.566 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181909.4, 134.840 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181924.5, 135.107 secs
+Energy = 1453979 (Ed=0, Es=1453979), lower bound = 181939.6, 135.398 secs
+Energy = 1453862 (Ed=0, Es=1453862), lower bound = 181954.7, 135.679 secs
+Energy = 1453862 (Ed=0, Es=1453862), lower bound = 181969.8, 135.949 secs
+Energy = 1453862 (Ed=0, Es=1453862), lower bound = 181984.8, 136.233 secs
+Energy = 1453862 (Ed=0, Es=1453862), lower bound = 181999.8, 136.502 secs
+Energy = 1453862 (Ed=0, Es=1453862), lower bound = 182014.7, 136.782 secs
+Energy = 1453924 (Ed=0, Es=1453924), lower bound = 182029.5, 137.053 secs
+Energy = 1453924 (Ed=0, Es=1453924), lower bound = 182044.2, 137.346 secs
+Energy = 1454843 (Ed=0, Es=1454843), lower bound = 182058.8, 137.631 secs
+Energy = 1454843 (Ed=0, Es=1454843), lower bound = 182073.4, 137.908 secs
+Energy = 1455196 (Ed=0, Es=1455196), lower bound = 182087.9, 138.191 secs
+Energy = 1455196 (Ed=0, Es=1455196), lower bound = 182102.4, 138.471 secs
+Energy = 1455196 (Ed=0, Es=1455196), lower bound = 182116.8, 138.738 secs
+Energy = 1455196 (Ed=0, Es=1455196), lower bound = 182131.2, 139.024 secs
+Energy = 1455196 (Ed=0, Es=1455196), lower bound = 182145.5, 139.314 secs
+Energy = 1455196 (Ed=0, Es=1455196), lower bound = 182159.7, 139.598 secs
+Energy = 2355455 (Ed=0, Es=2355455), lower bound = 182174.0, 139.899 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182188.2, 140.213 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182202.4, 140.509 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182216.4, 140.795 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182230.3, 141.071 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182244.2, 141.347 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182257.9, 141.625 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182271.6, 141.895 secs
+Energy = 2355493 (Ed=0, Es=2355493), lower bound = 182285.2, 142.173 secs
+Energy = 2356121 (Ed=0, Es=2356121), lower bound = 182298.7, 142.454 secs
+Energy = 2356121 (Ed=0, Es=2356121), lower bound = 182312.1, 142.747 secs
+Energy = 2356121 (Ed=0, Es=2356121), lower bound = 182325.5, 143.020 secs
+Energy = 2355497 (Ed=0, Es=2355497), lower bound = 182338.8, 143.303 secs
+Energy = 2355484 (Ed=0, Es=2355484), lower bound = 182352.1, 143.569 secs
+Energy = 2355484 (Ed=0, Es=2355484), lower bound = 182365.3, 143.845 secs
+Energy = 2355484 (Ed=0, Es=2355484), lower bound = 182378.4, 144.136 secs
+Energy = 2355484 (Ed=0, Es=2355484), lower bound = 182391.5, 144.408 secs
+Energy = 2355484 (Ed=0, Es=2355484), lower bound = 182404.4, 144.686 secs
+Energy = 2355484 (Ed=0, Es=2355484), lower bound = 182417.3, 144.965 secs
+Energy = 2355560 (Ed=0, Es=2355560), lower bound = 182430.2, 145.264 secs
+Energy = 2355560 (Ed=0, Es=2355560), lower bound = 182443.0, 145.540 secs
+Energy = 2356184 (Ed=0, Es=2356184), lower bound = 182455.7, 145.823 secs
+Energy = 2354685 (Ed=0, Es=2354685), lower bound = 182468.5, 146.104 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182481.1, 146.380 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182493.6, 146.669 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182506.1, 146.948 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182518.5, 147.225 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182530.9, 147.502 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182543.2, 147.782 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182555.5, 148.048 secs
+Energy = 2354504 (Ed=0, Es=2354504), lower bound = 182567.6, 148.327 secs
+Energy = 2354312 (Ed=0, Es=2354312), lower bound = 182579.6, 148.624 secs
+Energy = 2354312 (Ed=0, Es=2354312), lower bound = 182591.6, 148.910 secs
+Energy = 2355041 (Ed=0, Es=2355041), lower bound = 182603.5, 149.188 secs
+Energy = 2355567 (Ed=0, Es=2355567), lower bound = 182615.4, 149.474 secs
+Energy = 2355567 (Ed=0, Es=2355567), lower bound = 182627.2, 149.751 secs
+Energy = 2354583 (Ed=0, Es=2354583), lower bound = 182639.0, 150.023 secs
+Energy = 2353048 (Ed=0, Es=2353048), lower bound = 182650.7, 150.303 secs
+Energy = 2352989 (Ed=0, Es=2352989), lower bound = 182662.3, 150.587 secs
+Energy = 2352769 (Ed=0, Es=2352769), lower bound = 182673.8, 150.867 secs
+Energy = 2352745 (Ed=0, Es=2352745), lower bound = 182685.2, 151.146 secs
+Energy = 2352745 (Ed=0, Es=2352745), lower bound = 182696.5, 151.431 secs
+Energy = 2352745 (Ed=0, Es=2352745), lower bound = 182707.7, 151.708 secs
+Energy = 2352745 (Ed=0, Es=2352745), lower bound = 182718.8, 151.986 secs
+Energy = 2352465 (Ed=0, Es=2352465), lower bound = 182729.9, 152.269 secs
+Energy = 2352465 (Ed=0, Es=2352465), lower bound = 182741.0, 152.549 secs
+Energy = 2352465 (Ed=0, Es=2352465), lower bound = 182752.0, 152.829 secs
+Energy = 2352465 (Ed=0, Es=2352465), lower bound = 182763.0, 153.117 secs
+Energy = 2353534 (Ed=0, Es=2353534), lower bound = 182774.0, 153.389 secs
+Energy = 2359708 (Ed=0, Es=2359708), lower bound = 182784.9, 153.669 secs
+Energy = 2359708 (Ed=0, Es=2359708), lower bound = 182795.8, 153.950 secs
+Energy = 2359708 (Ed=0, Es=2359708), lower bound = 182806.6, 154.225 secs
+Energy = 2359207 (Ed=0, Es=2359207), lower bound = 182817.3, 154.516 secs
+Energy = 2357757 (Ed=0, Es=2357757), lower bound = 182828.0, 154.795 secs
+Energy = 2357223 (Ed=0, Es=2357223), lower bound = 182838.6, 155.070 secs
+******* Running BP-S for up to 500 x 1 iterations
+writing runtimes to family-BP-S.csv
+Energy = 4679501 (Ed=0, Es=4679501) at start (1.610 secs init)
+Energy = 6561806 (Ed=0, Es=6561806), 1.860 secs
+Warning: energy is increasing!
+Energy = 6186075 (Ed=0, Es=6186075), 2.130 secs
+Energy = 5730800 (Ed=0, Es=5730800), 2.428 secs
+Energy = 5513694 (Ed=0, Es=5513694), 2.685 secs
+Energy = 5309781 (Ed=0, Es=5309781), 2.937 secs
+Energy = 5100754 (Ed=0, Es=5100754), 3.192 secs
+Energy = 4898577 (Ed=0, Es=4898577), 3.431 secs
+Energy = 4696096 (Ed=0, Es=4696096), 3.677 secs
+Energy = 4495474 (Ed=0, Es=4495474), 3.912 secs
+Energy = 3996401 (Ed=0, Es=3996401), 4.144 secs
+Energy = 3696845 (Ed=0, Es=3696845), 4.394 secs
+Energy = 3596401 (Ed=0, Es=3596401), 4.643 secs
+Energy = 3596401 (Ed=0, Es=3596401), 4.892 secs
+Energy = 3596499 (Ed=0, Es=3596499), 5.144 secs
+Warning: energy is increasing!
+Energy = 3596401 (Ed=0, Es=3596401), 5.387 secs
+Energy = 3596499 (Ed=0, Es=3596499), 5.642 secs
+Warning: energy is increasing!
+Energy = 3596401 (Ed=0, Es=3596401), 5.883 secs
+Energy = 3596499 (Ed=0, Es=3596499), 6.141 secs
+Warning: energy is increasing!
+Energy = 3595588 (Ed=0, Es=3595588), 6.385 secs
+Energy = 3595303 (Ed=0, Es=3595303), 6.643 secs
+Energy = 3595205 (Ed=0, Es=3595205), 6.895 secs
+Energy = 3594569 (Ed=0, Es=3594569), 7.137 secs
+Energy = 3594667 (Ed=0, Es=3594667), 7.384 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 7.622 secs
+Energy = 3594667 (Ed=0, Es=3594667), 7.864 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 8.117 secs
+Energy = 3594667 (Ed=0, Es=3594667), 8.354 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 8.603 secs
+Energy = 3594667 (Ed=0, Es=3594667), 8.834 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 9.070 secs
+Energy = 3594569 (Ed=0, Es=3594569), 9.321 secs
+Energy = 3594667 (Ed=0, Es=3594667), 9.569 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 9.808 secs
+Energy = 3594667 (Ed=0, Es=3594667), 10.048 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 10.285 secs
+Energy = 3594667 (Ed=0, Es=3594667), 10.517 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 10.759 secs
+Energy = 3594667 (Ed=0, Es=3594667), 10.998 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 11.247 secs
+Energy = 3594569 (Ed=0, Es=3594569), 11.497 secs
+Energy = 3594667 (Ed=0, Es=3594667), 11.740 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 11.978 secs
+Energy = 3594667 (Ed=0, Es=3594667), 12.229 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 12.466 secs
+Energy = 3594667 (Ed=0, Es=3594667), 12.712 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 12.958 secs
+Energy = 3594667 (Ed=0, Es=3594667), 13.223 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 13.462 secs
+Energy = 3594569 (Ed=0, Es=3594569), 13.704 secs
+Energy = 3594667 (Ed=0, Es=3594667), 13.948 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 14.182 secs
+Energy = 3594667 (Ed=0, Es=3594667), 14.421 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 14.675 secs
+Energy = 3594667 (Ed=0, Es=3594667), 14.921 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 15.168 secs
+Energy = 3594667 (Ed=0, Es=3594667), 15.422 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 15.655 secs
+Energy = 3594569 (Ed=0, Es=3594569), 15.882 secs
+Energy = 3594667 (Ed=0, Es=3594667), 16.128 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 16.364 secs
+Energy = 3594667 (Ed=0, Es=3594667), 16.663 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 16.938 secs
+Energy = 3594667 (Ed=0, Es=3594667), 17.198 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 17.472 secs
+Energy = 3594667 (Ed=0, Es=3594667), 17.709 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 17.947 secs
+Energy = 3594569 (Ed=0, Es=3594569), 18.182 secs
+Energy = 3594667 (Ed=0, Es=3594667), 18.427 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 18.686 secs
+Energy = 3594667 (Ed=0, Es=3594667), 18.941 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 19.200 secs
+Energy = 3594667 (Ed=0, Es=3594667), 19.456 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 19.743 secs
+Energy = 3594667 (Ed=0, Es=3594667), 20.000 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 20.271 secs
+Energy = 3594569 (Ed=0, Es=3594569), 20.523 secs
+Energy = 3594667 (Ed=0, Es=3594667), 20.772 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 21.034 secs
+Energy = 3594667 (Ed=0, Es=3594667), 21.272 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 21.527 secs
+Energy = 3594667 (Ed=0, Es=3594667), 21.769 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 22.005 secs
+Energy = 3594667 (Ed=0, Es=3594667), 22.259 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 22.497 secs
+Energy = 3594569 (Ed=0, Es=3594569), 22.755 secs
+Energy = 3594667 (Ed=0, Es=3594667), 23.010 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 23.265 secs
+Energy = 3594667 (Ed=0, Es=3594667), 23.517 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 23.758 secs
+Energy = 3594667 (Ed=0, Es=3594667), 24.004 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 24.258 secs
+Energy = 3594667 (Ed=0, Es=3594667), 24.500 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 24.793 secs
+Energy = 3594569 (Ed=0, Es=3594569), 25.048 secs
+Energy = 3594667 (Ed=0, Es=3594667), 25.296 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 25.539 secs
+Energy = 3594667 (Ed=0, Es=3594667), 25.789 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 26.039 secs
+Energy = 3594667 (Ed=0, Es=3594667), 26.298 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 26.545 secs
+Energy = 3594667 (Ed=0, Es=3594667), 26.778 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 27.019 secs
+Energy = 3594569 (Ed=0, Es=3594569), 27.256 secs
+Energy = 3594667 (Ed=0, Es=3594667), 27.511 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 27.768 secs
+Energy = 3594667 (Ed=0, Es=3594667), 28.017 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 28.265 secs
+Energy = 3594667 (Ed=0, Es=3594667), 28.506 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 28.763 secs
+Energy = 3594667 (Ed=0, Es=3594667), 29.005 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 29.260 secs
+Energy = 3594569 (Ed=0, Es=3594569), 29.539 secs
+Energy = 3594667 (Ed=0, Es=3594667), 29.805 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 30.067 secs
+Energy = 3594667 (Ed=0, Es=3594667), 30.317 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 30.551 secs
+Energy = 3594667 (Ed=0, Es=3594667), 30.797 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 31.019 secs
+Energy = 3594667 (Ed=0, Es=3594667), 31.262 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 31.507 secs
+Energy = 3594569 (Ed=0, Es=3594569), 31.757 secs
+Energy = 3594667 (Ed=0, Es=3594667), 32.006 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 32.249 secs
+Energy = 3594667 (Ed=0, Es=3594667), 32.476 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 32.719 secs
+Energy = 3594667 (Ed=0, Es=3594667), 32.969 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 33.224 secs
+Energy = 3594667 (Ed=0, Es=3594667), 33.462 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 33.695 secs
+Energy = 3594569 (Ed=0, Es=3594569), 33.944 secs
+Energy = 3594667 (Ed=0, Es=3594667), 34.183 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 34.419 secs
+Energy = 3594667 (Ed=0, Es=3594667), 34.664 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 34.909 secs
+Energy = 3594667 (Ed=0, Es=3594667), 35.157 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 35.383 secs
+Energy = 3594667 (Ed=0, Es=3594667), 35.632 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 35.876 secs
+Energy = 3594569 (Ed=0, Es=3594569), 36.110 secs
+Energy = 3594667 (Ed=0, Es=3594667), 36.355 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 36.627 secs
+Energy = 3594667 (Ed=0, Es=3594667), 36.869 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 37.130 secs
+Energy = 3594667 (Ed=0, Es=3594667), 37.379 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 37.638 secs
+Energy = 3594667 (Ed=0, Es=3594667), 37.879 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 38.120 secs
+Energy = 3594569 (Ed=0, Es=3594569), 38.369 secs
+Energy = 3594667 (Ed=0, Es=3594667), 38.626 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 38.896 secs
+Energy = 3594667 (Ed=0, Es=3594667), 39.140 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 39.382 secs
+Energy = 3594667 (Ed=0, Es=3594667), 39.637 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 39.881 secs
+Energy = 3594667 (Ed=0, Es=3594667), 40.135 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 40.391 secs
+Energy = 3594569 (Ed=0, Es=3594569), 40.629 secs
+Energy = 3594667 (Ed=0, Es=3594667), 40.874 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 41.121 secs
+Energy = 3594667 (Ed=0, Es=3594667), 41.374 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 41.626 secs
+Energy = 3594667 (Ed=0, Es=3594667), 41.869 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 42.120 secs
+Energy = 3594667 (Ed=0, Es=3594667), 42.376 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 42.616 secs
+Energy = 3594569 (Ed=0, Es=3594569), 42.849 secs
+Energy = 3594667 (Ed=0, Es=3594667), 43.099 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 43.346 secs
+Energy = 3594667 (Ed=0, Es=3594667), 43.600 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 43.846 secs
+Energy = 3594667 (Ed=0, Es=3594667), 44.098 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 44.322 secs
+Energy = 3594667 (Ed=0, Es=3594667), 44.565 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 44.815 secs
+Energy = 3594569 (Ed=0, Es=3594569), 45.062 secs
+Energy = 3594667 (Ed=0, Es=3594667), 45.301 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 45.537 secs
+Energy = 3594667 (Ed=0, Es=3594667), 45.765 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 46.004 secs
+Energy = 3594667 (Ed=0, Es=3594667), 46.246 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 46.483 secs
+Energy = 3594667 (Ed=0, Es=3594667), 46.721 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 46.974 secs
+Energy = 3594569 (Ed=0, Es=3594569), 47.210 secs
+Energy = 3594667 (Ed=0, Es=3594667), 47.451 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 47.695 secs
+Energy = 3594667 (Ed=0, Es=3594667), 47.921 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 48.179 secs
+Energy = 3594667 (Ed=0, Es=3594667), 48.422 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 48.666 secs
+Energy = 3594667 (Ed=0, Es=3594667), 48.919 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 49.158 secs
+Energy = 3594569 (Ed=0, Es=3594569), 49.396 secs
+Energy = 3594667 (Ed=0, Es=3594667), 49.626 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 49.880 secs
+Energy = 3594667 (Ed=0, Es=3594667), 50.150 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 50.395 secs
+Energy = 3594667 (Ed=0, Es=3594667), 50.633 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 50.876 secs
+Energy = 3594667 (Ed=0, Es=3594667), 51.125 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 51.384 secs
+Energy = 3594569 (Ed=0, Es=3594569), 51.634 secs
+Energy = 3594667 (Ed=0, Es=3594667), 51.875 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 52.117 secs
+Energy = 3594667 (Ed=0, Es=3594667), 52.379 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 52.630 secs
+Energy = 3594667 (Ed=0, Es=3594667), 52.874 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 53.119 secs
+Energy = 3594667 (Ed=0, Es=3594667), 53.374 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 53.625 secs
+Energy = 3594569 (Ed=0, Es=3594569), 53.879 secs
+Energy = 3594667 (Ed=0, Es=3594667), 54.131 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 54.380 secs
+Energy = 3594667 (Ed=0, Es=3594667), 54.641 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 54.879 secs
+Energy = 3594667 (Ed=0, Es=3594667), 55.142 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 55.408 secs
+Energy = 3594667 (Ed=0, Es=3594667), 55.661 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 55.896 secs
+Energy = 3594569 (Ed=0, Es=3594569), 56.137 secs
+Energy = 3594667 (Ed=0, Es=3594667), 56.385 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 56.638 secs
+Energy = 3594667 (Ed=0, Es=3594667), 56.890 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 57.134 secs
+Energy = 3594667 (Ed=0, Es=3594667), 57.375 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 57.622 secs
+Energy = 3594667 (Ed=0, Es=3594667), 57.881 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 58.126 secs
+Energy = 3594569 (Ed=0, Es=3594569), 58.367 secs
+Energy = 3594667 (Ed=0, Es=3594667), 58.613 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 58.851 secs
+Energy = 3594667 (Ed=0, Es=3594667), 59.083 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 59.344 secs
+Energy = 3594667 (Ed=0, Es=3594667), 59.594 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 59.842 secs
+Energy = 3594667 (Ed=0, Es=3594667), 60.073 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 60.322 secs
+Energy = 3594569 (Ed=0, Es=3594569), 60.576 secs
+Energy = 3594667 (Ed=0, Es=3594667), 60.836 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 61.076 secs
+Energy = 3594667 (Ed=0, Es=3594667), 61.313 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 61.559 secs
+Energy = 3594667 (Ed=0, Es=3594667), 61.803 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 62.048 secs
+Energy = 3594667 (Ed=0, Es=3594667), 62.293 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 62.541 secs
+Energy = 3594569 (Ed=0, Es=3594569), 62.783 secs
+Energy = 3594667 (Ed=0, Es=3594667), 63.043 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 63.289 secs
+Energy = 3594667 (Ed=0, Es=3594667), 63.548 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 63.799 secs
+Energy = 3594667 (Ed=0, Es=3594667), 64.034 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 64.283 secs
+Energy = 3594667 (Ed=0, Es=3594667), 64.534 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 64.779 secs
+Energy = 3594569 (Ed=0, Es=3594569), 65.021 secs
+Energy = 3594667 (Ed=0, Es=3594667), 65.285 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 65.530 secs
+Energy = 3594667 (Ed=0, Es=3594667), 65.772 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 66.021 secs
+Energy = 3594667 (Ed=0, Es=3594667), 66.259 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 66.497 secs
+Energy = 3594667 (Ed=0, Es=3594667), 66.748 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 67.000 secs
+Energy = 3594569 (Ed=0, Es=3594569), 67.249 secs
+Energy = 3594667 (Ed=0, Es=3594667), 67.497 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 67.741 secs
+Energy = 3594667 (Ed=0, Es=3594667), 67.988 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 68.224 secs
+Energy = 3594667 (Ed=0, Es=3594667), 68.458 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 68.695 secs
+Energy = 3594667 (Ed=0, Es=3594667), 68.956 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 69.204 secs
+Energy = 3594569 (Ed=0, Es=3594569), 69.452 secs
+Energy = 3594667 (Ed=0, Es=3594667), 69.693 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 69.937 secs
+Energy = 3594667 (Ed=0, Es=3594667), 70.189 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 70.441 secs
+Energy = 3594667 (Ed=0, Es=3594667), 70.699 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 70.920 secs
+Energy = 3594667 (Ed=0, Es=3594667), 71.166 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 71.413 secs
+Energy = 3594569 (Ed=0, Es=3594569), 71.673 secs
+Energy = 3594667 (Ed=0, Es=3594667), 71.942 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 72.184 secs
+Energy = 3594667 (Ed=0, Es=3594667), 72.441 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 72.697 secs
+Energy = 3594667 (Ed=0, Es=3594667), 72.949 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 73.194 secs
+Energy = 3594667 (Ed=0, Es=3594667), 73.443 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 73.684 secs
+Energy = 3594569 (Ed=0, Es=3594569), 73.930 secs
+Energy = 3594667 (Ed=0, Es=3594667), 74.175 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 74.431 secs
+Energy = 3594667 (Ed=0, Es=3594667), 74.682 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 74.936 secs
+Energy = 3594667 (Ed=0, Es=3594667), 75.190 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 75.437 secs
+Energy = 3594667 (Ed=0, Es=3594667), 75.680 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 75.923 secs
+Energy = 3594569 (Ed=0, Es=3594569), 76.156 secs
+Energy = 3594667 (Ed=0, Es=3594667), 76.421 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 76.664 secs
+Energy = 3594667 (Ed=0, Es=3594667), 76.901 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 77.155 secs
+Energy = 3594667 (Ed=0, Es=3594667), 77.392 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 77.636 secs
+Energy = 3594667 (Ed=0, Es=3594667), 77.876 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 78.125 secs
+Energy = 3594569 (Ed=0, Es=3594569), 78.363 secs
+Energy = 3594667 (Ed=0, Es=3594667), 78.607 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 78.837 secs
+Energy = 3594667 (Ed=0, Es=3594667), 79.086 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 79.325 secs
+Energy = 3594667 (Ed=0, Es=3594667), 79.571 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 79.797 secs
+Energy = 3594667 (Ed=0, Es=3594667), 80.035 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 80.296 secs
+Energy = 3594569 (Ed=0, Es=3594569), 80.530 secs
+Energy = 3594667 (Ed=0, Es=3594667), 80.791 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 81.033 secs
+Energy = 3594667 (Ed=0, Es=3594667), 81.273 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 81.505 secs
+Energy = 3594667 (Ed=0, Es=3594667), 81.754 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 81.997 secs
+Energy = 3594667 (Ed=0, Es=3594667), 82.229 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 82.479 secs
+Energy = 3594569 (Ed=0, Es=3594569), 82.728 secs
+Energy = 3594667 (Ed=0, Es=3594667), 82.978 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 83.224 secs
+Energy = 3594667 (Ed=0, Es=3594667), 83.471 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 83.722 secs
+Energy = 3594667 (Ed=0, Es=3594667), 83.958 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 84.197 secs
+Energy = 3594667 (Ed=0, Es=3594667), 84.442 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 84.679 secs
+Energy = 3594569 (Ed=0, Es=3594569), 84.929 secs
+Energy = 3594667 (Ed=0, Es=3594667), 85.187 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 85.445 secs
+Energy = 3594667 (Ed=0, Es=3594667), 85.693 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 85.939 secs
+Energy = 3594667 (Ed=0, Es=3594667), 86.191 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 86.433 secs
+Energy = 3594667 (Ed=0, Es=3594667), 86.675 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 86.934 secs
+Energy = 3594569 (Ed=0, Es=3594569), 87.177 secs
+Energy = 3594667 (Ed=0, Es=3594667), 87.429 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 87.671 secs
+Energy = 3594667 (Ed=0, Es=3594667), 87.917 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 88.156 secs
+Energy = 3594667 (Ed=0, Es=3594667), 88.393 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 88.632 secs
+Energy = 3594667 (Ed=0, Es=3594667), 88.882 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 89.128 secs
+Energy = 3594569 (Ed=0, Es=3594569), 89.388 secs
+Energy = 3594667 (Ed=0, Es=3594667), 89.650 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 89.907 secs
+Energy = 3594667 (Ed=0, Es=3594667), 90.153 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 90.399 secs
+Energy = 3594667 (Ed=0, Es=3594667), 90.671 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 90.946 secs
+Energy = 3594667 (Ed=0, Es=3594667), 91.216 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 91.485 secs
+Energy = 3594569 (Ed=0, Es=3594569), 91.749 secs
+Energy = 3594667 (Ed=0, Es=3594667), 91.988 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 92.229 secs
+Energy = 3594667 (Ed=0, Es=3594667), 92.474 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 92.739 secs
+Energy = 3594667 (Ed=0, Es=3594667), 92.995 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 93.247 secs
+Energy = 3594667 (Ed=0, Es=3594667), 93.500 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 93.742 secs
+Energy = 3594569 (Ed=0, Es=3594569), 94.000 secs
+Energy = 3594667 (Ed=0, Es=3594667), 94.259 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 94.559 secs
+Energy = 3594667 (Ed=0, Es=3594667), 94.797 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 95.046 secs
+Energy = 3594667 (Ed=0, Es=3594667), 95.285 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 95.524 secs
+Energy = 3594667 (Ed=0, Es=3594667), 95.775 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 96.030 secs
+Energy = 3594569 (Ed=0, Es=3594569), 96.276 secs
+Energy = 3594667 (Ed=0, Es=3594667), 96.519 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 96.761 secs
+Energy = 3594667 (Ed=0, Es=3594667), 97.020 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 97.270 secs
+Energy = 3594667 (Ed=0, Es=3594667), 97.522 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 97.803 secs
+Energy = 3594667 (Ed=0, Es=3594667), 98.060 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 98.317 secs
+Energy = 3594569 (Ed=0, Es=3594569), 98.586 secs
+Energy = 3594667 (Ed=0, Es=3594667), 98.827 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 99.062 secs
+Energy = 3594667 (Ed=0, Es=3594667), 99.302 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 99.557 secs
+Energy = 3594667 (Ed=0, Es=3594667), 99.804 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 100.067 secs
+Energy = 3594667 (Ed=0, Es=3594667), 100.320 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 100.567 secs
+Energy = 3594569 (Ed=0, Es=3594569), 100.804 secs
+Energy = 3594667 (Ed=0, Es=3594667), 101.042 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 101.277 secs
+Energy = 3594667 (Ed=0, Es=3594667), 101.513 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 101.766 secs
+Energy = 3594667 (Ed=0, Es=3594667), 102.012 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 102.266 secs
+Energy = 3594667 (Ed=0, Es=3594667), 102.521 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 102.769 secs
+Energy = 3594569 (Ed=0, Es=3594569), 103.011 secs
+Energy = 3594667 (Ed=0, Es=3594667), 103.257 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 103.505 secs
+Energy = 3594667 (Ed=0, Es=3594667), 103.766 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 104.014 secs
+Energy = 3594667 (Ed=0, Es=3594667), 104.257 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 104.511 secs
+Energy = 3594667 (Ed=0, Es=3594667), 104.806 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 105.078 secs
+Energy = 3594569 (Ed=0, Es=3594569), 105.335 secs
+Energy = 3594667 (Ed=0, Es=3594667), 105.585 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 105.815 secs
+Energy = 3594667 (Ed=0, Es=3594667), 106.061 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 106.334 secs
+Energy = 3594667 (Ed=0, Es=3594667), 106.601 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 106.870 secs
+Energy = 3594667 (Ed=0, Es=3594667), 107.135 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 107.413 secs
+Energy = 3594569 (Ed=0, Es=3594569), 107.686 secs
+Energy = 3594667 (Ed=0, Es=3594667), 107.940 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 108.183 secs
+Energy = 3594667 (Ed=0, Es=3594667), 108.427 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 108.673 secs
+Energy = 3594667 (Ed=0, Es=3594667), 108.934 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 109.206 secs
+Energy = 3594667 (Ed=0, Es=3594667), 109.474 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 109.751 secs
+Energy = 3594569 (Ed=0, Es=3594569), 110.005 secs
+Energy = 3594667 (Ed=0, Es=3594667), 110.270 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 110.510 secs
+Energy = 3594667 (Ed=0, Es=3594667), 110.752 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 111.006 secs
+Energy = 3594667 (Ed=0, Es=3594667), 111.276 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 111.547 secs
+Energy = 3594667 (Ed=0, Es=3594667), 111.834 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 112.094 secs
+Energy = 3594569 (Ed=0, Es=3594569), 112.333 secs
+Energy = 3594667 (Ed=0, Es=3594667), 112.578 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 112.870 secs
+Energy = 3594667 (Ed=0, Es=3594667), 113.151 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 113.412 secs
+Energy = 3594667 (Ed=0, Es=3594667), 113.669 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 113.973 secs
+Energy = 3594667 (Ed=0, Es=3594667), 114.241 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 114.505 secs
+Energy = 3594569 (Ed=0, Es=3594569), 114.770 secs
+Energy = 3594667 (Ed=0, Es=3594667), 115.044 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 115.294 secs
+Energy = 3594667 (Ed=0, Es=3594667), 115.558 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 115.812 secs
+Energy = 3594667 (Ed=0, Es=3594667), 116.071 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 116.324 secs
+Energy = 3594667 (Ed=0, Es=3594667), 116.575 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 116.821 secs
+Energy = 3594569 (Ed=0, Es=3594569), 117.071 secs
+Energy = 3594667 (Ed=0, Es=3594667), 117.323 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 117.566 secs
+Energy = 3594667 (Ed=0, Es=3594667), 117.815 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 118.052 secs
+Energy = 3594667 (Ed=0, Es=3594667), 118.307 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 118.561 secs
+Energy = 3594667 (Ed=0, Es=3594667), 118.815 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 119.077 secs
+Energy = 3594569 (Ed=0, Es=3594569), 119.327 secs
+Energy = 3594667 (Ed=0, Es=3594667), 119.573 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 119.819 secs
+Energy = 3594667 (Ed=0, Es=3594667), 120.061 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 120.300 secs
+Energy = 3594667 (Ed=0, Es=3594667), 120.555 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 120.793 secs
+Energy = 3594667 (Ed=0, Es=3594667), 121.044 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 121.289 secs
+Energy = 3594569 (Ed=0, Es=3594569), 121.585 secs
+Energy = 3594667 (Ed=0, Es=3594667), 121.849 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 122.117 secs
+Energy = 3594667 (Ed=0, Es=3594667), 122.367 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 122.609 secs
+Energy = 3594667 (Ed=0, Es=3594667), 122.868 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 123.112 secs
+Energy = 3594667 (Ed=0, Es=3594667), 123.393 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 123.656 secs
+Energy = 3594569 (Ed=0, Es=3594569), 123.902 secs
+Energy = 3594667 (Ed=0, Es=3594667), 124.180 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 124.467 secs
+Energy = 3594667 (Ed=0, Es=3594667), 124.751 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 125.030 secs
+Energy = 3594667 (Ed=0, Es=3594667), 125.295 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 125.574 secs
+Energy = 3594667 (Ed=0, Es=3594667), 125.840 secs
+Warning: energy is increasing!
+Energy = 3594569 (Ed=0, Es=3594569), 126.086 secs
+Energy = 3594569 (Ed=0, Es=3594569), 126.342 secs
+Energy = 3594667 (Ed=0, Es=3594667), 126.612 secs
+Warning: energy is increasing!
+******* Running BP-M for up to 500 x 1 iterations
+writing runtimes to family-BP-M.csv
+Energy = 4679501 (Ed=0, Es=4679501) at start (0.048 secs init)
+Energy = 7776707 (Ed=0, Es=7776707), 4.466 secs
+Warning: energy is increasing!
+Energy = 1978853 (Ed=0, Es=1978853), 8.724 secs
+Energy = 1871844 (Ed=0, Es=1871844), 13.141 secs
+Energy = 1465801 (Ed=0, Es=1465801), 17.524 secs
+Energy = 1372665 (Ed=0, Es=1372665), 21.859 secs
+Energy = 1511910 (Ed=0, Es=1511910), 26.178 secs
+Warning: energy is increasing!
+Energy = 1245587 (Ed=0, Es=1245587), 30.509 secs
+Energy = 901653 (Ed=0, Es=901653), 34.874 secs
+Energy = 1071824 (Ed=0, Es=1071824), 39.243 secs
+Warning: energy is increasing!
+Energy = 979116 (Ed=0, Es=979116), 43.580 secs
+Energy = 766756 (Ed=0, Es=766756), 47.809 secs
+Energy = 659767 (Ed=0, Es=659767), 51.799 secs
+Energy = 742578 (Ed=0, Es=742578), 55.766 secs
+Warning: energy is increasing!
+Energy = 638401 (Ed=0, Es=638401), 59.653 secs
+Energy = 643538 (Ed=0, Es=643538), 63.563 secs
+Warning: energy is increasing!
+Energy = 637212 (Ed=0, Es=637212), 67.414 secs
+Energy = 628940 (Ed=0, Es=628940), 71.320 secs
+Energy = 625776 (Ed=0, Es=625776), 75.074 secs
+Energy = 625031 (Ed=0, Es=625031), 79.750 secs
+Energy = 625031 (Ed=0, Es=625031), 83.595 secs
+Energy = 625812 (Ed=0, Es=625812), 87.751 secs
+Warning: energy is increasing!
+Energy = 627017 (Ed=0, Es=627017), 92.976 secs
+Warning: energy is increasing!
+Energy = 625839 (Ed=0, Es=625839), 98.064 secs
+Energy = 628856 (Ed=0, Es=628856), 103.174 secs
+Warning: energy is increasing!
+Energy = 627888 (Ed=0, Es=627888), 108.388 secs
+Energy = 624217 (Ed=0, Es=624217), 113.658 secs
+Energy = 624217 (Ed=0, Es=624217), 118.875 secs
+Energy = 624215 (Ed=0, Es=624215), 124.320 secs
+Energy = 624299 (Ed=0, Es=624299), 129.815 secs
+Warning: energy is increasing!
+Energy = 624451 (Ed=0, Es=624451), 135.250 secs
+Warning: energy is increasing!
+Energy = 625536 (Ed=0, Es=625536), 140.445 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 145.243 secs
+Energy = 624307 (Ed=0, Es=624307), 150.170 secs
+Energy = 624307 (Ed=0, Es=624307), 154.947 secs
+Energy = 623881 (Ed=0, Es=623881), 159.700 secs
+Energy = 623583 (Ed=0, Es=623583), 164.520 secs
+Energy = 623583 (Ed=0, Es=623583), 169.332 secs
+Energy = 623583 (Ed=0, Es=623583), 174.649 secs
+Energy = 623583 (Ed=0, Es=623583), 179.815 secs
+Energy = 626692 (Ed=0, Es=626692), 184.947 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 190.353 secs
+Energy = 624307 (Ed=0, Es=624307), 195.535 secs
+Energy = 624307 (Ed=0, Es=624307), 200.916 secs
+Energy = 623881 (Ed=0, Es=623881), 206.492 secs
+Energy = 623583 (Ed=0, Es=623583), 212.101 secs
+Energy = 623583 (Ed=0, Es=623583), 217.566 secs
+Energy = 623583 (Ed=0, Es=623583), 222.624 secs
+Energy = 623583 (Ed=0, Es=623583), 228.053 secs
+Energy = 626692 (Ed=0, Es=626692), 232.552 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 236.290 secs
+Energy = 624307 (Ed=0, Es=624307), 239.961 secs
+Energy = 624307 (Ed=0, Es=624307), 243.950 secs
+Energy = 624877 (Ed=0, Es=624877), 247.837 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 251.657 secs
+Energy = 623583 (Ed=0, Es=623583), 255.447 secs
+Energy = 623583 (Ed=0, Es=623583), 259.260 secs
+Energy = 623583 (Ed=0, Es=623583), 262.940 secs
+Energy = 626692 (Ed=0, Es=626692), 266.649 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 270.512 secs
+Energy = 624307 (Ed=0, Es=624307), 274.476 secs
+Energy = 624307 (Ed=0, Es=624307), 278.338 secs
+Energy = 624863 (Ed=0, Es=624863), 282.010 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 285.711 secs
+Energy = 623583 (Ed=0, Es=623583), 289.453 secs
+Energy = 623583 (Ed=0, Es=623583), 293.389 secs
+Energy = 623583 (Ed=0, Es=623583), 297.194 secs
+Energy = 626692 (Ed=0, Es=626692), 300.896 secs
+Warning: energy is increasing!
+Energy = 624514 (Ed=0, Es=624514), 304.910 secs
+Energy = 624307 (Ed=0, Es=624307), 308.707 secs
+Energy = 624307 (Ed=0, Es=624307), 312.436 secs
+Energy = 627300 (Ed=0, Es=627300), 316.150 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 319.865 secs
+Energy = 623583 (Ed=0, Es=623583), 323.575 secs
+Energy = 623583 (Ed=0, Es=623583), 327.353 secs
+Energy = 623583 (Ed=0, Es=623583), 331.056 secs
+Energy = 623583 (Ed=0, Es=623583), 334.830 secs
+Energy = 625485 (Ed=0, Es=625485), 339.044 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 342.734 secs
+Energy = 624307 (Ed=0, Es=624307), 346.358 secs
+Energy = 624307 (Ed=0, Es=624307), 350.051 secs
+Energy = 623583 (Ed=0, Es=623583), 353.806 secs
+Energy = 623583 (Ed=0, Es=623583), 357.597 secs
+Energy = 623583 (Ed=0, Es=623583), 361.213 secs
+Energy = 623583 (Ed=0, Es=623583), 364.898 secs
+Energy = 623583 (Ed=0, Es=623583), 368.793 secs
+Energy = 625485 (Ed=0, Es=625485), 372.938 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 376.722 secs
+Energy = 624307 (Ed=0, Es=624307), 380.408 secs
+Energy = 624307 (Ed=0, Es=624307), 384.116 secs
+Energy = 623881 (Ed=0, Es=623881), 387.916 secs
+Energy = 623583 (Ed=0, Es=623583), 391.542 secs
+Energy = 623583 (Ed=0, Es=623583), 395.186 secs
+Energy = 623583 (Ed=0, Es=623583), 398.801 secs
+Energy = 623583 (Ed=0, Es=623583), 402.425 secs
+Energy = 626692 (Ed=0, Es=626692), 406.095 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 409.840 secs
+Energy = 624307 (Ed=0, Es=624307), 413.791 secs
+Energy = 624307 (Ed=0, Es=624307), 417.560 secs
+Energy = 623881 (Ed=0, Es=623881), 421.510 secs
+Energy = 623583 (Ed=0, Es=623583), 425.388 secs
+Energy = 623583 (Ed=0, Es=623583), 429.304 secs
+Energy = 623583 (Ed=0, Es=623583), 432.930 secs
+Energy = 623583 (Ed=0, Es=623583), 436.612 secs
+Energy = 626692 (Ed=0, Es=626692), 440.211 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 443.996 secs
+Energy = 624307 (Ed=0, Es=624307), 447.705 secs
+Energy = 624307 (Ed=0, Es=624307), 451.795 secs
+Energy = 624877 (Ed=0, Es=624877), 455.505 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 459.253 secs
+Energy = 623583 (Ed=0, Es=623583), 462.909 secs
+Energy = 623583 (Ed=0, Es=623583), 466.565 secs
+Energy = 623583 (Ed=0, Es=623583), 470.224 secs
+Energy = 626692 (Ed=0, Es=626692), 473.939 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 477.611 secs
+Energy = 624307 (Ed=0, Es=624307), 481.347 secs
+Energy = 624307 (Ed=0, Es=624307), 485.042 secs
+Energy = 627300 (Ed=0, Es=627300), 488.702 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 492.383 secs
+Energy = 623583 (Ed=0, Es=623583), 495.989 secs
+Energy = 623583 (Ed=0, Es=623583), 499.674 secs
+Energy = 623583 (Ed=0, Es=623583), 503.201 secs
+Energy = 623583 (Ed=0, Es=623583), 506.865 secs
+Energy = 624514 (Ed=0, Es=624514), 510.482 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 514.160 secs
+Energy = 624307 (Ed=0, Es=624307), 517.854 secs
+Energy = 629265 (Ed=0, Es=629265), 521.565 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 525.224 secs
+Energy = 623583 (Ed=0, Es=623583), 528.939 secs
+Energy = 623583 (Ed=0, Es=623583), 532.632 secs
+Energy = 623583 (Ed=0, Es=623583), 536.332 secs
+Energy = 623583 (Ed=0, Es=623583), 540.009 secs
+Energy = 625485 (Ed=0, Es=625485), 543.787 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 547.398 secs
+Energy = 624307 (Ed=0, Es=624307), 551.035 secs
+Energy = 624307 (Ed=0, Es=624307), 554.592 secs
+Energy = 623583 (Ed=0, Es=623583), 558.253 secs
+Energy = 623583 (Ed=0, Es=623583), 561.839 secs
+Energy = 623583 (Ed=0, Es=623583), 565.521 secs
+Energy = 623583 (Ed=0, Es=623583), 569.186 secs
+Energy = 623583 (Ed=0, Es=623583), 572.831 secs
+Energy = 625485 (Ed=0, Es=625485), 576.480 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 580.233 secs
+Energy = 624307 (Ed=0, Es=624307), 583.872 secs
+Energy = 624307 (Ed=0, Es=624307), 587.593 secs
+Energy = 623881 (Ed=0, Es=623881), 591.217 secs
+Energy = 623583 (Ed=0, Es=623583), 594.851 secs
+Energy = 623583 (Ed=0, Es=623583), 598.567 secs
+Energy = 623583 (Ed=0, Es=623583), 602.444 secs
+Energy = 623583 (Ed=0, Es=623583), 606.259 secs
+Energy = 626692 (Ed=0, Es=626692), 610.039 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 613.783 secs
+Energy = 624307 (Ed=0, Es=624307), 617.567 secs
+Energy = 624307 (Ed=0, Es=624307), 621.449 secs
+Energy = 623881 (Ed=0, Es=623881), 625.124 secs
+Energy = 623583 (Ed=0, Es=623583), 628.986 secs
+Energy = 623583 (Ed=0, Es=623583), 632.704 secs
+Energy = 623583 (Ed=0, Es=623583), 636.505 secs
+Energy = 623583 (Ed=0, Es=623583), 640.425 secs
+Energy = 626692 (Ed=0, Es=626692), 644.303 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 647.984 secs
+Energy = 624307 (Ed=0, Es=624307), 651.813 secs
+Energy = 624307 (Ed=0, Es=624307), 655.663 secs
+Energy = 624863 (Ed=0, Es=624863), 659.631 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 663.597 secs
+Energy = 623583 (Ed=0, Es=623583), 667.797 secs
+Energy = 623583 (Ed=0, Es=623583), 671.817 secs
+Energy = 623583 (Ed=0, Es=623583), 675.849 secs
+Energy = 626692 (Ed=0, Es=626692), 679.981 secs
+Warning: energy is increasing!
+Energy = 624514 (Ed=0, Es=624514), 684.028 secs
+Energy = 624307 (Ed=0, Es=624307), 688.013 secs
+Energy = 624307 (Ed=0, Es=624307), 692.278 secs
+Energy = 627300 (Ed=0, Es=627300), 695.943 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 699.862 secs
+Energy = 623583 (Ed=0, Es=623583), 703.740 secs
+Energy = 623583 (Ed=0, Es=623583), 707.493 secs
+Energy = 623583 (Ed=0, Es=623583), 711.351 secs
+Energy = 623583 (Ed=0, Es=623583), 715.239 secs
+Energy = 624514 (Ed=0, Es=624514), 719.029 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 722.868 secs
+Energy = 624307 (Ed=0, Es=624307), 726.812 secs
+Energy = 629265 (Ed=0, Es=629265), 730.616 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 734.318 secs
+Energy = 623583 (Ed=0, Es=623583), 738.074 secs
+Energy = 623583 (Ed=0, Es=623583), 742.046 secs
+Energy = 623583 (Ed=0, Es=623583), 746.025 secs
+Energy = 623583 (Ed=0, Es=623583), 749.780 secs
+Energy = 625485 (Ed=0, Es=625485), 753.491 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 757.269 secs
+Energy = 624307 (Ed=0, Es=624307), 761.055 secs
+Energy = 624307 (Ed=0, Es=624307), 764.810 secs
+Energy = 623583 (Ed=0, Es=623583), 768.623 secs
+Energy = 623583 (Ed=0, Es=623583), 772.425 secs
+Energy = 623583 (Ed=0, Es=623583), 776.257 secs
+Energy = 623583 (Ed=0, Es=623583), 779.971 secs
+Energy = 623583 (Ed=0, Es=623583), 783.721 secs
+Energy = 625485 (Ed=0, Es=625485), 787.415 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 791.097 secs
+Energy = 624307 (Ed=0, Es=624307), 794.745 secs
+Energy = 624307 (Ed=0, Es=624307), 798.364 secs
+Energy = 623881 (Ed=0, Es=623881), 801.971 secs
+Energy = 623583 (Ed=0, Es=623583), 805.814 secs
+Energy = 623583 (Ed=0, Es=623583), 810.849 secs
+Energy = 623583 (Ed=0, Es=623583), 815.744 secs
+Energy = 623583 (Ed=0, Es=623583), 820.703 secs
+Energy = 626692 (Ed=0, Es=626692), 825.645 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 830.525 secs
+Energy = 624307 (Ed=0, Es=624307), 835.592 secs
+Energy = 624307 (Ed=0, Es=624307), 840.487 secs
+Energy = 624877 (Ed=0, Es=624877), 845.043 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 849.677 secs
+Energy = 623583 (Ed=0, Es=623583), 854.312 secs
+Energy = 623583 (Ed=0, Es=623583), 858.799 secs
+Energy = 623583 (Ed=0, Es=623583), 863.483 secs
+Energy = 626692 (Ed=0, Es=626692), 868.074 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 872.874 secs
+Energy = 624307 (Ed=0, Es=624307), 877.555 secs
+Energy = 624307 (Ed=0, Es=624307), 882.280 secs
+Energy = 624863 (Ed=0, Es=624863), 887.023 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 891.646 secs
+Energy = 623583 (Ed=0, Es=623583), 896.344 secs
+Energy = 623583 (Ed=0, Es=623583), 901.104 secs
+Energy = 623583 (Ed=0, Es=623583), 905.567 secs
+Energy = 626692 (Ed=0, Es=626692), 910.091 secs
+Warning: energy is increasing!
+Energy = 624514 (Ed=0, Es=624514), 913.738 secs
+Energy = 624307 (Ed=0, Es=624307), 917.465 secs
+Energy = 624307 (Ed=0, Es=624307), 921.184 secs
+Energy = 627300 (Ed=0, Es=627300), 924.823 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 928.470 secs
+Energy = 623583 (Ed=0, Es=623583), 932.221 secs
+Energy = 623583 (Ed=0, Es=623583), 935.949 secs
+Energy = 623583 (Ed=0, Es=623583), 939.867 secs
+Energy = 623583 (Ed=0, Es=623583), 943.972 secs
+Energy = 625485 (Ed=0, Es=625485), 947.859 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 951.975 secs
+Energy = 624307 (Ed=0, Es=624307), 955.989 secs
+Energy = 629265 (Ed=0, Es=629265), 960.032 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 963.940 secs
+Energy = 623583 (Ed=0, Es=623583), 967.641 secs
+Energy = 623583 (Ed=0, Es=623583), 971.292 secs
+Energy = 623583 (Ed=0, Es=623583), 975.100 secs
+Energy = 623583 (Ed=0, Es=623583), 978.842 secs
+Energy = 625485 (Ed=0, Es=625485), 982.499 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 986.183 secs
+Energy = 624307 (Ed=0, Es=624307), 989.847 secs
+Energy = 624307 (Ed=0, Es=624307), 993.470 secs
+Energy = 623583 (Ed=0, Es=623583), 997.107 secs
+Energy = 623583 (Ed=0, Es=623583), 1000.779 secs
+Energy = 623583 (Ed=0, Es=623583), 1004.537 secs
+Energy = 623583 (Ed=0, Es=623583), 1008.162 secs
+Energy = 623583 (Ed=0, Es=623583), 1011.885 secs
+Energy = 626316 (Ed=0, Es=626316), 1015.472 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1019.171 secs
+Energy = 624307 (Ed=0, Es=624307), 1022.879 secs
+Energy = 624307 (Ed=0, Es=624307), 1026.845 secs
+Energy = 623881 (Ed=0, Es=623881), 1030.666 secs
+Energy = 623583 (Ed=0, Es=623583), 1034.597 secs
+Energy = 623583 (Ed=0, Es=623583), 1038.498 secs
+Energy = 623583 (Ed=0, Es=623583), 1042.478 secs
+Energy = 623583 (Ed=0, Es=623583), 1046.373 secs
+Energy = 626692 (Ed=0, Es=626692), 1050.290 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1053.986 secs
+Energy = 624307 (Ed=0, Es=624307), 1057.657 secs
+Energy = 624307 (Ed=0, Es=624307), 1061.298 secs
+Energy = 624877 (Ed=0, Es=624877), 1064.964 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1068.604 secs
+Energy = 623583 (Ed=0, Es=623583), 1072.223 secs
+Energy = 623583 (Ed=0, Es=623583), 1075.893 secs
+Energy = 623583 (Ed=0, Es=623583), 1079.514 secs
+Energy = 626692 (Ed=0, Es=626692), 1083.139 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 1086.704 secs
+Energy = 624307 (Ed=0, Es=624307), 1090.383 secs
+Energy = 624307 (Ed=0, Es=624307), 1093.976 secs
+Energy = 624863 (Ed=0, Es=624863), 1097.650 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1101.222 secs
+Energy = 623583 (Ed=0, Es=623583), 1104.861 secs
+Energy = 623583 (Ed=0, Es=623583), 1108.541 secs
+Energy = 623583 (Ed=0, Es=623583), 1112.226 secs
+Energy = 626692 (Ed=0, Es=626692), 1115.826 secs
+Warning: energy is increasing!
+Energy = 624514 (Ed=0, Es=624514), 1119.483 secs
+Energy = 624307 (Ed=0, Es=624307), 1123.077 secs
+Energy = 624307 (Ed=0, Es=624307), 1126.733 secs
+Energy = 627300 (Ed=0, Es=627300), 1130.308 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1134.023 secs
+Energy = 623583 (Ed=0, Es=623583), 1137.636 secs
+Energy = 623583 (Ed=0, Es=623583), 1141.418 secs
+Energy = 623583 (Ed=0, Es=623583), 1145.014 secs
+Energy = 623583 (Ed=0, Es=623583), 1148.677 secs
+Energy = 625485 (Ed=0, Es=625485), 1152.284 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1155.949 secs
+Energy = 624307 (Ed=0, Es=624307), 1159.695 secs
+Energy = 624307 (Ed=0, Es=624307), 1163.365 secs
+Energy = 623583 (Ed=0, Es=623583), 1166.997 secs
+Energy = 623583 (Ed=0, Es=623583), 1170.609 secs
+Energy = 623583 (Ed=0, Es=623583), 1174.287 secs
+Energy = 623583 (Ed=0, Es=623583), 1177.895 secs
+Energy = 623583 (Ed=0, Es=623583), 1181.452 secs
+Energy = 625485 (Ed=0, Es=625485), 1185.052 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1188.718 secs
+Energy = 624307 (Ed=0, Es=624307), 1192.317 secs
+Energy = 624307 (Ed=0, Es=624307), 1196.028 secs
+Energy = 623881 (Ed=0, Es=623881), 1199.619 secs
+Energy = 623583 (Ed=0, Es=623583), 1203.255 secs
+Energy = 623583 (Ed=0, Es=623583), 1206.799 secs
+Energy = 623583 (Ed=0, Es=623583), 1210.408 secs
+Energy = 623583 (Ed=0, Es=623583), 1214.058 secs
+Energy = 626692 (Ed=0, Es=626692), 1217.722 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1221.284 secs
+Energy = 624307 (Ed=0, Es=624307), 1224.928 secs
+Energy = 624307 (Ed=0, Es=624307), 1228.532 secs
+Energy = 623881 (Ed=0, Es=623881), 1232.161 secs
+Energy = 623583 (Ed=0, Es=623583), 1235.732 secs
+Energy = 623583 (Ed=0, Es=623583), 1239.339 secs
+Energy = 623583 (Ed=0, Es=623583), 1242.879 secs
+Energy = 623583 (Ed=0, Es=623583), 1246.457 secs
+Energy = 626692 (Ed=0, Es=626692), 1250.078 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1253.747 secs
+Energy = 624307 (Ed=0, Es=624307), 1257.451 secs
+Energy = 624307 (Ed=0, Es=624307), 1261.149 secs
+Energy = 624877 (Ed=0, Es=624877), 1264.782 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1268.395 secs
+Energy = 623583 (Ed=0, Es=623583), 1271.924 secs
+Energy = 623583 (Ed=0, Es=623583), 1275.473 secs
+Energy = 623583 (Ed=0, Es=623583), 1279.022 secs
+Energy = 626692 (Ed=0, Es=626692), 1282.561 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 1286.112 secs
+Energy = 624307 (Ed=0, Es=624307), 1289.890 secs
+Energy = 624307 (Ed=0, Es=624307), 1293.692 secs
+Energy = 627300 (Ed=0, Es=627300), 1297.460 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1301.185 secs
+Energy = 623583 (Ed=0, Es=623583), 1304.956 secs
+Energy = 623583 (Ed=0, Es=623583), 1308.688 secs
+Energy = 623583 (Ed=0, Es=623583), 1312.368 secs
+Energy = 623583 (Ed=0, Es=623583), 1315.934 secs
+Energy = 624514 (Ed=0, Es=624514), 1319.581 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1323.154 secs
+Energy = 624307 (Ed=0, Es=624307), 1326.687 secs
+Energy = 629265 (Ed=0, Es=629265), 1330.267 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1333.901 secs
+Energy = 623583 (Ed=0, Es=623583), 1337.468 secs
+Energy = 623583 (Ed=0, Es=623583), 1341.000 secs
+Energy = 623583 (Ed=0, Es=623583), 1344.609 secs
+Energy = 623583 (Ed=0, Es=623583), 1348.326 secs
+Energy = 625485 (Ed=0, Es=625485), 1351.961 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1355.557 secs
+Energy = 624307 (Ed=0, Es=624307), 1359.111 secs
+Energy = 624307 (Ed=0, Es=624307), 1362.697 secs
+Energy = 623583 (Ed=0, Es=623583), 1366.269 secs
+Energy = 623583 (Ed=0, Es=623583), 1369.856 secs
+Energy = 623583 (Ed=0, Es=623583), 1373.464 secs
+Energy = 623583 (Ed=0, Es=623583), 1377.128 secs
+Energy = 623583 (Ed=0, Es=623583), 1380.784 secs
+Energy = 625485 (Ed=0, Es=625485), 1384.338 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1387.906 secs
+Energy = 624307 (Ed=0, Es=624307), 1391.471 secs
+Energy = 624307 (Ed=0, Es=624307), 1395.084 secs
+Energy = 623881 (Ed=0, Es=623881), 1398.675 secs
+Energy = 623583 (Ed=0, Es=623583), 1402.227 secs
+Energy = 623583 (Ed=0, Es=623583), 1405.794 secs
+Energy = 623583 (Ed=0, Es=623583), 1409.445 secs
+Energy = 623583 (Ed=0, Es=623583), 1413.057 secs
+Energy = 626692 (Ed=0, Es=626692), 1416.750 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1420.345 secs
+Energy = 624307 (Ed=0, Es=624307), 1423.987 secs
+Energy = 624307 (Ed=0, Es=624307), 1427.596 secs
+Energy = 623881 (Ed=0, Es=623881), 1431.118 secs
+Energy = 623583 (Ed=0, Es=623583), 1434.789 secs
+Energy = 623583 (Ed=0, Es=623583), 1438.406 secs
+Energy = 623583 (Ed=0, Es=623583), 1442.038 secs
+Energy = 623583 (Ed=0, Es=623583), 1445.580 secs
+Energy = 626692 (Ed=0, Es=626692), 1449.184 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 1452.770 secs
+Energy = 624307 (Ed=0, Es=624307), 1456.533 secs
+Energy = 624307 (Ed=0, Es=624307), 1460.247 secs
+Energy = 624863 (Ed=0, Es=624863), 1463.802 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1467.372 secs
+Energy = 623583 (Ed=0, Es=623583), 1471.033 secs
+Energy = 623583 (Ed=0, Es=623583), 1474.779 secs
+Energy = 623583 (Ed=0, Es=623583), 1478.390 secs
+Energy = 626692 (Ed=0, Es=626692), 1481.946 secs
+Warning: energy is increasing!
+Energy = 624514 (Ed=0, Es=624514), 1485.474 secs
+Energy = 624307 (Ed=0, Es=624307), 1489.081 secs
+Energy = 624307 (Ed=0, Es=624307), 1492.618 secs
+Energy = 627300 (Ed=0, Es=627300), 1496.187 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1499.803 secs
+Energy = 623583 (Ed=0, Es=623583), 1503.431 secs
+Energy = 623583 (Ed=0, Es=623583), 1507.000 secs
+Energy = 623583 (Ed=0, Es=623583), 1510.566 secs
+Energy = 623583 (Ed=0, Es=623583), 1514.141 secs
+Energy = 624514 (Ed=0, Es=624514), 1517.714 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1521.308 secs
+Energy = 624307 (Ed=0, Es=624307), 1524.856 secs
+Energy = 629265 (Ed=0, Es=629265), 1528.438 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1532.057 secs
+Energy = 623583 (Ed=0, Es=623583), 1535.628 secs
+Energy = 623583 (Ed=0, Es=623583), 1539.212 secs
+Energy = 623583 (Ed=0, Es=623583), 1542.866 secs
+Energy = 623583 (Ed=0, Es=623583), 1546.515 secs
+Energy = 625485 (Ed=0, Es=625485), 1550.056 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1553.677 secs
+Energy = 624307 (Ed=0, Es=624307), 1557.306 secs
+Energy = 624307 (Ed=0, Es=624307), 1560.968 secs
+Energy = 623583 (Ed=0, Es=623583), 1564.748 secs
+Energy = 623583 (Ed=0, Es=623583), 1568.500 secs
+Energy = 623583 (Ed=0, Es=623583), 1572.204 secs
+Energy = 623583 (Ed=0, Es=623583), 1575.985 secs
+Energy = 623583 (Ed=0, Es=623583), 1579.733 secs
+Energy = 625485 (Ed=0, Es=625485), 1583.431 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1587.018 secs
+Energy = 624307 (Ed=0, Es=624307), 1590.844 secs
+Energy = 624307 (Ed=0, Es=624307), 1595.236 secs
+Energy = 623881 (Ed=0, Es=623881), 1599.124 secs
+Energy = 623583 (Ed=0, Es=623583), 1603.159 secs
+Energy = 623583 (Ed=0, Es=623583), 1607.596 secs
+Energy = 623583 (Ed=0, Es=623583), 1612.186 secs
+Energy = 623583 (Ed=0, Es=623583), 1616.309 secs
+Energy = 626692 (Ed=0, Es=626692), 1620.672 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1624.813 secs
+Energy = 624307 (Ed=0, Es=624307), 1628.907 secs
+Energy = 624307 (Ed=0, Es=624307), 1633.045 secs
+Energy = 624877 (Ed=0, Es=624877), 1637.101 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1641.041 secs
+Energy = 623583 (Ed=0, Es=623583), 1645.104 secs
+Energy = 623583 (Ed=0, Es=623583), 1648.882 secs
+Energy = 623583 (Ed=0, Es=623583), 1652.581 secs
+Energy = 626692 (Ed=0, Es=626692), 1657.127 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 1661.170 secs
+Energy = 624307 (Ed=0, Es=624307), 1665.060 secs
+Energy = 624307 (Ed=0, Es=624307), 1668.719 secs
+Energy = 624863 (Ed=0, Es=624863), 1672.723 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1676.420 secs
+Energy = 623583 (Ed=0, Es=623583), 1680.194 secs
+Energy = 623583 (Ed=0, Es=623583), 1683.911 secs
+Energy = 623583 (Ed=0, Es=623583), 1687.592 secs
+Energy = 626692 (Ed=0, Es=626692), 1691.357 secs
+Warning: energy is increasing!
+Energy = 624514 (Ed=0, Es=624514), 1695.205 secs
+Energy = 624307 (Ed=0, Es=624307), 1698.982 secs
+Energy = 624307 (Ed=0, Es=624307), 1702.989 secs
+Energy = 627300 (Ed=0, Es=627300), 1706.785 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1710.811 secs
+Energy = 623583 (Ed=0, Es=623583), 1715.239 secs
+Energy = 623583 (Ed=0, Es=623583), 1719.038 secs
+Energy = 623583 (Ed=0, Es=623583), 1722.784 secs
+Energy = 623583 (Ed=0, Es=623583), 1726.766 secs
+Energy = 625485 (Ed=0, Es=625485), 1730.574 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1734.337 secs
+Energy = 624307 (Ed=0, Es=624307), 1738.141 secs
+Energy = 629265 (Ed=0, Es=629265), 1741.817 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1745.543 secs
+Energy = 623583 (Ed=0, Es=623583), 1749.277 secs
+Energy = 623583 (Ed=0, Es=623583), 1752.956 secs
+Energy = 623583 (Ed=0, Es=623583), 1756.787 secs
+Energy = 623583 (Ed=0, Es=623583), 1760.390 secs
+Energy = 625485 (Ed=0, Es=625485), 1764.129 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1768.441 secs
+Energy = 624307 (Ed=0, Es=624307), 1772.189 secs
+Energy = 624307 (Ed=0, Es=624307), 1775.930 secs
+Energy = 623583 (Ed=0, Es=623583), 1779.098 secs
+Energy = 623583 (Ed=0, Es=623583), 1782.460 secs
+Energy = 623583 (Ed=0, Es=623583), 1786.072 secs
+Energy = 623583 (Ed=0, Es=623583), 1789.755 secs
+Energy = 623583 (Ed=0, Es=623583), 1792.869 secs
+Energy = 626692 (Ed=0, Es=626692), 1795.879 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1798.776 secs
+Energy = 624307 (Ed=0, Es=624307), 1801.785 secs
+Energy = 624307 (Ed=0, Es=624307), 1804.661 secs
+Energy = 623881 (Ed=0, Es=623881), 1807.613 secs
+Energy = 623583 (Ed=0, Es=623583), 1810.390 secs
+Energy = 623583 (Ed=0, Es=623583), 1813.103 secs
+Energy = 623583 (Ed=0, Es=623583), 1815.965 secs
+Energy = 623583 (Ed=0, Es=623583), 1818.719 secs
+Energy = 626692 (Ed=0, Es=626692), 1821.469 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1824.437 secs
+Energy = 624307 (Ed=0, Es=624307), 1827.270 secs
+Energy = 624307 (Ed=0, Es=624307), 1830.032 secs
+Energy = 624877 (Ed=0, Es=624877), 1832.909 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1835.770 secs
+Energy = 623583 (Ed=0, Es=623583), 1838.585 secs
+Energy = 623583 (Ed=0, Es=623583), 1841.392 secs
+Energy = 623583 (Ed=0, Es=623583), 1844.130 secs
+Energy = 626692 (Ed=0, Es=626692), 1846.941 secs
+Warning: energy is increasing!
+Energy = 624565 (Ed=0, Es=624565), 1849.729 secs
+Energy = 624307 (Ed=0, Es=624307), 1852.482 secs
+Energy = 624307 (Ed=0, Es=624307), 1855.262 secs
+Energy = 624863 (Ed=0, Es=624863), 1858.060 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1860.878 secs
+Energy = 623583 (Ed=0, Es=623583), 1863.697 secs
+Energy = 623583 (Ed=0, Es=623583), 1866.485 secs
+Energy = 623583 (Ed=0, Es=623583), 1869.318 secs
+Energy = 626692 (Ed=0, Es=626692), 1872.144 secs
+Warning: energy is increasing!
+Energy = 624514 (Ed=0, Es=624514), 1875.467 secs
+Energy = 624307 (Ed=0, Es=624307), 1878.324 secs
+Energy = 624307 (Ed=0, Es=624307), 1881.207 secs
+Energy = 627300 (Ed=0, Es=627300), 1883.911 secs
+Warning: energy is increasing!
+Energy = 623583 (Ed=0, Es=623583), 1886.615 secs
+Energy = 623583 (Ed=0, Es=623583), 1889.384 secs
+Energy = 623583 (Ed=0, Es=623583), 1892.193 secs
+Energy = 623583 (Ed=0, Es=623583), 1894.906 secs
+Energy = 623583 (Ed=0, Es=623583), 1897.610 secs
+Energy = 625485 (Ed=0, Es=625485), 1900.307 secs
+Warning: energy is increasing!
+Energy = 624307 (Ed=0, Es=624307), 1903.064 secs
+******* Running Dual Decomposition for up to 500 x 1 iterations
+writing runtimes to family-Dual Decomposition.csv
+Energy = 4679501 (Ed=0, Es=4679501) at start (0.102 secs init)
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Warning: energy is increasing!
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
+Energy = 1471200000 (Ed=1471200000, Es=0), 0.660 secs
