@@ -1,3 +1,11 @@
+Purpose:
+Compare different optimization algorithms for stereomatching. 
+
+Contribution:
+The only contribution is the dual descent (DD.cpp, DD.h, README-DD.txt)
+
+---
+
 This directory contains all the code to run all the MRF benchmarks.
 
 The code is provided "as is" as a service to the community.
